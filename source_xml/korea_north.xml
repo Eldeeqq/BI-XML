@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<country generated-from="https://www.cia.gov/library/publications/the-world-factbook/geos/kn.html" id="north_korea">
+  <introduction>
+    <name>North Korea</name>
+    <background>
+      <paragraph>An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. Five years later, Japan formally annexed the entire peninsula. Following World War II, Korea was split with the northern half coming under Soviet-sponsored communist control. After failing in the Korean War (1950-53) to conquer the US-backed Republic of Korea (ROK) in the southern portion by force, North Korea (DPRK), under its founder President KIM Il Sung, adopted a policy of ostensible diplomatic and economic &quot;self-reliance&quot; as a check against outside influence. The DPRK demonized the US as the ultimate threat to its social system through state-funded propaganda, and molded political, economic, and military policies around the core ideological objective of eventual unification of Korea under Pyongyang's control. KIM Il Sung's son, KIM Jong Il, was officially designated as his father's successor in 1980, assuming a growing political and managerial role until the elder KIM's death in 1994. KIM Jong Un was publicly unveiled as his father's successor in 2010.</paragraph>
+      <paragraph>Following KIM Jong Il's death in 2011, KIM Jong Un quickly assumed power and has now taken on most of his father's former titles and duties. After decades of economic mismanagement and resource misallocation, the DPRK since the mid-1990s has faced chronic food shortages. In recent years, the North’s domestic agricultural production has increased, but still falls far short of producing sufficient food to provide for its entire population. The DPRK began to ease restrictions to allow semi-private markets, starting in 2002, but has made few other efforts to meet its goal of improving the overall standard of living. North Korea's history of regional military provocations; proliferation of military-related items; long-range missile development; WMD programs including tests of nuclear devices in 2006, 2009, 2013, 2016, and 2017; and massive conventional armed forces are of major concern to the international community and have limited the DPRK’s international engagement, particularly economically. The regime abides by a policy calling for the simultaneous development of its nuclear weapons program and its economy.</paragraph>
+    </background>
+  </introduction>
+  <pictures>
+    <picture description="Flag">https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/kn-lgflag.gif</picture>
+    <picture description="Location">https://www.cia.gov/library/publications/the-world-factbook/graphics/locator/eas/kn_large_locator.gif</picture>
+    <picture description="Map">https://www.cia.gov/library/publications/resources/the-world-factbook/graphics/maps/kn-map.gif</picture>
+    <photos>
+      <photo description="Satellite image shows North and South Korea (upper left) as well as the Japanese island of Shikoku, nestled between Kyushu to the southwest and Honshu to the north. Photo courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/kn/images/KN_001.jpg</photo>
+    </photos>
+  </pictures>
+  <section name="Communications" id="communication">
+    <detail name="Broadcast media">no independent media; radios and TVs are pre-tuned to government stations; 4 government-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts</detail>
+    <detail name="Internet country code">.kp</detail>
+    <nested-detail name="Telephones - fixed lines">
+      <detail name="total subscriptions">1.18 million</detail>
+      <detail name="subscriptions per 100 inhabitants">5</detail>
+    </nested-detail>
+    <nested-detail name="Telephones - mobile cellular">
+      <detail name="total">3.24 million</detail>
+      <detail name="subscriptions per 100 inhabitants">13</detail>
+    </nested-detail>
+    <nested-detail name="Telephone system">
+      <detail name="general assessment">adequate system; nationwide fiber-optic network; mobile-cellular service expanded beyond Pyongyang</detail>
+      <detail name="domestic">fiber-optic links installed down to the county level; telephone directories unavailable; mobile service launched in late 2008 for the Pyongyang area and considerable progress in expanding to other parts of the country since</detail>
+      <detail name="international">country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing</detail>
+    </nested-detail>
+  </section>
+  <section name="Economy" id="economy">
+    <detail name="Overview">North Korea, one of the world's most centrally directed and least open economies, faces chronic economic problems. Industrial capital stock is nearly beyond repair as a result of years of underinvestment, shortages of spare parts, and poor maintenance. Large-scale military spending and development of its ballistic missile and nuclear program severely draws off resources needed for investment and civilian consumption. Industrial and power outputs have stagnated for years at a fraction of pre-1990 levels. Frequent weather-related crop failures aggravated chronic food shortages caused by on-going systemic problems, including a lack of arable land, collective farming practices, poor soil quality, insufficient fertilization, and persistent shortages of tractors and fuel.</detail>
+    <detail name="GDP (purchasing power parity)">$40 billion</detail>
+    <detail name="GDP (official exchange rate)">$28 billion</detail>
+    <detail name="GDP per capita">$1,700</detail>
+    <detail name="Gross national saving">NA%</detail>
+    <list-detail name="Agricultural products">
+      <list-item>rice</list-item>
+      <list-item>corn</list-item>
+      <list-item>potatoes</list-item>
+      <list-item>wheat</list-item>
+      <list-item>soybeans</list-item>
+      <list-item>pulses</list-item>
+      <list-item>beef</list-item>
+      <list-item>pork</list-item>
+      <list-item>eggs</list-item>
+    </list-detail>
+    <detail name="Industries">military products; machine building, electric power, chemicals; mining (coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, and precious metals), metallurgy; textiles, food processing; tourism</detail>
+    <detail name="Industrial production growth rate">1%</detail>
+    <detail name="Labor force">14 million</detail>
+    <detail name="Unemployment rate">25.6%</detail>
+    <detail name="Population below poverty line">NA%</detail>
+    <detail name="Taxes and other revenues">11.4% of GDP</detail>
+    <detail name="Budget surplus (+) or deficit (-)">-0.4% of GDP</detail>
+    <detail name="Fiscal year">calendar year</detail>
+    <detail name="Inflation rate (consumer prices)">NA%</detail>
+    <detail name="Exports">$2.985 billion</detail>
+    <detail name="Export commodities">minerals, metallurgical products, manufactures (including armaments), textiles, agricultural and fishery products</detail>
+    <detail name="Export partners">China 85.6%</detail>
+    <detail name="Imports">$3.752 billion</detail>
+    <detail name="Import commodities">petroleum, coking coal, machinery and equipment, textiles, grain</detail>
+    <detail name="Import partners">China 90.3%</detail>
+    <detail name="Debt - external">$5 billion</detail>
+    <nested-detail name="GDP - composition, by end use">
+      <detail name="household consumption">NA%</detail>
+      <detail name="government consumption">NA%</detail>
+      <detail name="investment in fixed capital">NA%</detail>
+      <detail name="investment in inventories">NA%</detail>
+      <detail name="exports of goods and services">5.9%</detail>
+      <detail name="imports of goods and services">-11.1%</detail>
+    </nested-detail>
+    <nested-detail name="Labor force - by occupation">
+      <detail name="agriculture">37%</detail>
+      <detail name="industry and services">63%</detail>
+    </nested-detail>
+    <nested-detail name="Household income or consumption by percentage share">
+      <detail name="lowest 10%">NA%</detail>
+      <detail name="highest 10%">NA%</detail>
+    </nested-detail>
+    <nested-detail name="Budget">
+      <detail name="revenues">$3.2 billion</detail>
+      <detail name="expenditures">$3.3 billion</detail>
+    </nested-detail>
+  </section>
+  <section name="Energy" id="energy">
+    <detail name="Electricity - production">13.41 billion kWh</detail>
+    <detail name="Electricity - consumption">11.24 billion kWh</detail>
+    <detail name="Electricity - exports">0 kWh</detail>
+    <detail name="Electricity - imports">0 kWh</detail>
+    <detail name="Electricity - installed generating capacity">10 million kW</detail>
+    <detail name="Electricity - from fossil fuels">45% of total installed capacity</detail>
+    <detail name="Electricity - from nuclear fuels">0% of total installed capacity</detail>
+    <detail name="Electricity - from hydroelectric plants">55% of total installed capacity</detail>
+    <detail name="Electricity - from other renewable sources">0% of total installed capacity</detail>
+    <detail name="Crude oil - production">0 bbl/day</detail>
+    <detail name="Crude oil - exports">0 bbl/day</detail>
+    <detail name="Crude oil - imports">10,640 bbl/day</detail>
+    <detail name="Crude oil - proved reserves">0 bbl</detail>
+    <detail name="Refined petroleum products - production">11,270 bbl/day</detail>
+    <detail name="Refined petroleum products - consumption">18,000 bbl/day</detail>
+    <detail name="Refined petroleum products - exports">0 bbl/day</detail>
+    <detail name="Refined petroleum products - imports">5,976 bbl/day</detail>
+    <detail name="Natural gas - production">0 cu m</detail>
+    <detail name="Natural gas - consumption">0 cu m</detail>
+    <detail name="Natural gas - exports">0 cu m</detail>
+    <detail name="Natural gas - imports">0 cu m</detail>
+    <detail name="Natural gas - proved reserves">0 cu m</detail>
+    <detail name="Carbon dioxide emissions from consumption of energy">50 million Mt</detail>
+    <nested-detail name="Electricity access">
+      <detail name="population without electricity">18,400,000</detail>
+      <detail name="electrification - total population">30%</detail>
+      <detail name="electrification - urban areas">41%</detail>
+      <detail name="electrification - rural areas">13%</detail>
+    </nested-detail>
+  </section>
+  <section name="Geography" id="geography">
+    <detail name="Location">Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and the Sea of Japan, between China and South Korea</detail>
+    <detail name="Coordinates">40 00 N, 127 00 E</detail>
+    <detail name="Coastline">2,495 km</detail>
+    <detail name="Climate">temperate, with rainfall concentrated in summer; long, bitter winters</detail>
+    <detail name="Terrain">mostly hills and mountains separated by deep, narrow valleys; wide coastal plains in west, discontinuous in east</detail>
+    <list-detail name="Natural resources">
+      <list-item>coal</list-item>
+      <list-item>iron ore</list-item>
+      <list-item>limestone</list-item>
+      <list-item>magnesite</list-item>
+      <list-item>graphite</list-item>
+      <list-item>copper</list-item>
+      <list-item>zinc</list-item>
+      <list-item>lead</list-item>
+      <list-item>precious metals</list-item>
+      <list-item>hydropower</list-item>
+    </list-detail>
+    <detail name="Irrigated land">14,600 sq km</detail>
+    <list-detail name="Natural hazards">
+      <list-item>late spring droughts often followed by severe flooding</list-item>
+      <list-item>occasional typhoons during the early fall</list-item>
+    </list-detail>
+    <list-detail name="Current environment issues">
+      <list-item>water pollution</list-item>
+      <list-item>inadequate supplies of potable water</list-item>
+      <list-item>waterborne disease</list-item>
+      <list-item>deforestation</list-item>
+      <list-item>soil erosion and degradation</list-item>
+    </list-detail>
+    <detail name="Population - distribution">population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east</detail>
+    <nested-detail name="Area">
+      <detail name="total">120,538 sq km</detail>
+      <detail name="land">120,408 sq km</detail>
+      <detail name="water">130 sq km</detail>
+    </nested-detail>
+    <nested-detail name="Maritime claims">
+      <detail name="territorial sea">12 nm</detail>
+      <detail name="exclusive economic zone">200 nm</detail>
+      <detail name="note">military boundary line 50 nm in the Sea of Japan and the exclusive economic zone limit in the Yellow Sea where all foreign vessels and aircraft without permission are banned</detail>
+    </nested-detail>
+    <nested-detail name="Land use">
+      <detail name="agricultural land">21.8%</detail>
+      <detail name="forest">46%</detail>
+      <detail name="other">32.2%</detail>
+    </nested-detail>
+    <nested-detail name="Environment international agreements">
+      <detail name="party to">Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution</detail>
+      <detail name="signed, but not ratified">Law of the Sea</detail>
+    </nested-detail>
+    <nested-detail name="Elevation">
+      <detail name="mean elevation">600 m</detail>
+      <detail name="elevation extremes">lowest point: Sea of Japan 0 m</detail>
+    </nested-detail>
+    <nested-detail name="Land boundaries">
+      <detail name="total">1,607 km</detail>
+      <list-detail name="border countries (3)">
+        <list-item>China 1352 km</list-item>
+        <list-item>South Korea 237 km</list-item>
+        <list-item>Russia 18 km</list-item>
+      </list-detail>
+    </nested-detail>
+  </section>
+  <section name="Government" id="government">
+    <detail name="Government type">single-party state; official state ideology of &quot;Juche&quot; or &quot;national self-reliance</detail>
+    <list-detail name="Administrative divisions">
+      <list-item>9 provinces (do</list-item>
+      <list-item>singular and plural) and 3 cities (si</list-item>
+      <list-item>singular and plural)</list-item>
+    </list-detail>
+    <list-detail name="Independence">
+      <list-item>15 August 1945 (from Japan)</list-item>
+    </list-detail>
+    <detail name="National holiday">Founding of the Democratic People's Republic of Korea (DPRK), 9 September</detail>
+    <detail name="Legal system">civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory</detail>
+    <detail name="International law organization participation">has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt</detail>
+    <detail name="Suffrage">17 years of age; universal and compulsory</detail>
+    <list-detail name="International organization participation">
+      <list-item>ARF</list-item>
+      <list-item>FAO</list-item>
+      <list-item>G-77</list-item>
+      <list-item>ICAO</list-item>
+      <list-item>ICRM</list-item>
+      <list-item>IFAD</list-item>
+      <list-item>IFRCS</list-item>
+      <list-item>IHO</list-item>
+      <list-item>IMO</list-item>
+      <list-item>IMSO</list-item>
+      <list-item>IOC</list-item>
+      <list-item>IPU</list-item>
+      <list-item>ISO</list-item>
+      <list-item>ITSO</list-item>
+      <list-item>ITU</list-item>
+      <list-item>NAM</list-item>
+      <list-item>UN</list-item>
+      <list-item>UNCTAD</list-item>
+      <list-item>UNESCO</list-item>
+      <list-item>UNIDO</list-item>
+      <list-item>UNWTO</list-item>
+      <list-item>UPU</list-item>
+      <list-item>WFTU (NGOs)</list-item>
+      <list-item>WHO</list-item>
+      <list-item>WIPO</list-item>
+      <list-item>WMO</list-item>
+    </list-detail>
+    <detail name="Flag description">three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the broad red band symbolizes revolutionary traditions; the narrow white bands stand for purity, strength, and dignity; the blue bands signify sovereignty, peace, and friendship; the red star represents socialism</detail>
+    <list-detail name="National symbol(s)">
+      <list-item>red star, chollima (winged horse)</list-item>
+      <list-item>national colors: red, white, blue</list-item>
+    </list-detail>
+    <nested-detail name="Country name">
+      <detail name="conventional long form">Democratic People's Republic of Korea</detail>
+      <detail name="conventional short form">North Korea</detail>
+      <detail name="local long form">Choson-minjujuui-inmin-konghwaguk</detail>
+      <detail name="local short form">Choson</detail>
+      <detail name="abbreviation">DPRK</detail>
+      <detail name="etymology">derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the North Korean name &quot;Choson&quot; means &quot;[Land of the] Morning Calm&quot;</detail>
+    </nested-detail>
+    <nested-detail name="Capital">
+      <detail name="name">Pyongyang</detail>
+      <detail name="geographic coordinates">39 01 N, 125 45 E</detail>
+      <detail name="time difference">UTC+8.5 (13.5 hours ahead of Washington, DC, during Standard Time)</detail>
+      <detail name="note">on 15 August 2015, North Korea reverted to UTC+8.5, a time zone that had been observed during pre-colonial times</detail>
+    </nested-detail>
+    <nested-detail name="Constitution">
+      <detail name="history">previous 1948, 1972; latest adopted 1998 (during KIM Jong Il era)</detail>
+      <detail name="amendments">proposed by the Supreme People’s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised 2009, 2012, 2013</detail>
+    </nested-detail>
+    <nested-detail name="Citizenship">
+      <detail name="citizenship by birth">no</detail>
+      <detail name="citizenship by descent only">at least one parent must be a citizen of North Korea</detail>
+      <detail name="dual citizenship recognized">no</detail>
+      <detail name="residency requirement for naturalization">unknown</detail>
+    </nested-detail>
+    <nested-detail name="Executive branch">
+      <detail name="chief of state">Supreme People's Assembly President KIM Yong Nam (since 5 September 1998); note - functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials</detail>
+      <detail name="head of government">State Affairs Commission Chairman KIM Jong Un (since 17 December 2011); note - functions as the commander-in-chief and chief executive</detail>
+      <detail name="cabinet">Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces</detail>
+      <detail name="elections/appointments">chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 9 March 2014 (next election NA)</detail>
+      <detail name="election results">KIM Jong Un reelected unopposed</detail>
+      <detail name="note">the Korean Workers' Party continues to list deceased leaders KIM Il Sung and KIM Jong Il as Eternal President and Eternal General Secretary respectively</detail>
+    </nested-detail>
+    <nested-detail name="Legislative branch">
+      <detail name="description">unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by absolute majority vote to serve 5-year terms); note - the Korean Workers' Party selects all candidates</detail>
+      <detail name="elections">last held on 9 March 2014</detail>
+      <detail name="election results">percent of vote by party - NA; seats by party - KWP 607, KSDF 50, Chondoist Chongu Party 22, Chongryon 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; KWP, KSDP, Chondoist Chongu Party, and Chongryon are part of the DFRF; a token number of seats are reserved for minor parties</detail>
+    </nested-detail>
+    <nested-detail name="Judicial branch">
+      <detail name="highest court(s)">Supreme Court or Central Court (consists of one judge and 2 &quot;People's Assessors&quot; or for some cases, 3 judges)</detail>
+      <detail name="judge selection and term of office">judges elected by the Supreme People's Assembly for 5-year terms</detail>
+      <detail name="subordinate courts">lower provincial courts as determined by the Supreme People's Assembly</detail>
+    </nested-detail>
+    <nested-detail name="National anthem">
+      <detail name="name">&quot;Aegukka&quot; (Patriotic Song)</detail>
+      <detail name="lyrics/music">PAK Se Yong/KIM Won Gyun</detail>
+      <detail name="note">adopted 1947; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics; the North Korean anthem is also known as &quot;Ach'imun pinnara&quot; (Let Morning Shine)</detail>
+    </nested-detail>
+    <detail name="Diplomatic representation in the US">none; North Korea has a Permanent Mission to the UN in New York</detail>
+    <detail name="Diplomatic representation from the US">none; note - Swedish Embassy in Pyongyang represents the US as consular protecting power</detail>
+  </section>
+  <section name="Military and security" id="military">
+    <list-detail name="Military service age and obligation">
+      <list-item>17 years of age for compulsory male and female military service</list-item>
+      <list-item>service obligation 10 years for men, to age 23 for women</list-item>
+    </list-detail>
+    <list-detail name="Military branches">
+      <list-item>North Korean People's Army: Ground Forces, Navy, Air Force</list-item>
+      <list-item>civil security forces</list-item>
+    </list-detail>
+  </section>
+  <section name="People and society" id="people">
+    <detail name="Population">25,248,140</detail>
+    <list-detail name="Ethnic groups">
+      <list-item>racially homogeneous</list-item>
+      <list-item>there is a small Chinese community and a few ethnic Japanese</list-item>
+    </list-detail>
+    <list-detail name="Languages">
+      <list-item>Korean</list-item>
+    </list-detail>
+    <detail name="Religions">traditionally Buddhist and Confucianist, some Christian and syncretic Chondogyo (Religion of the Heavenly Way)</detail>
+    <detail name="Population growth rate">0.53%</detail>
+    <detail name="Birth rate">14.6 births/1,000 population</detail>
+    <detail name="Death rate">9.3 deaths/1,000 population</detail>
+    <detail name="Net migration rate">0 migrant(s)/1,000 population</detail>
+    <detail name="Population distribution">population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east</detail>
+    <detail name="Total fertility rate">1.95 children born/woman</detail>
+    <detail name="Contraceptive prevalence rate">78.2%</detail>
+    <detail name="Physicians density">3.51 physicians/1,000 population</detail>
+    <detail name="Hospital bed density">13.2 beds/1,000 population</detail>
+    <detail name="Total fertility rate">1.95 children born/woman</detail>
+    <list-detail name="Urban areas">
+      <list-item>PYONGYANG (capital) 2.863 million</list-item>
+    </list-detail>
+    <detail name="HIV/AIDS - adult prevalence rate">NA</detail>
+    <detail name="HIV/AIDS - deaths">NA</detail>
+    <detail name="Obesity - adult prevalence rate">6.8%</detail>
+    <detail name="Children under the age of 5 years underweight">15.2%</detail>
+    <detail name="Education expenditures">NA</detail>
+    <detail name="Nationality">Korean(s)</detail>
+    <nested-detail name="Dependency ratios">
+      <detail name="total dependency ratio">44.5</detail>
+      <detail name="youth dependency ratio">30.5</detail>
+      <detail name="elderly dependency ratio">14</detail>
+    </nested-detail>
+    <nested-detail name="Median age">
+      <detail name="total">34 years</detail>
+      <detail name="male">32.5 years</detail>
+      <detail name="female">35.6 years</detail>
+    </nested-detail>
+    <nested-detail name="Urbanization">
+      <detail name="urban population">61.2% of total population</detail>
+      <detail name="rate of urbanization">0.8% annual rate of change (2015-20 est.)</detail>
+    </nested-detail>
+    <nested-detail name="Infant mortality rate">
+      <detail name="total">22.1 deaths/1,000 live births</detail>
+      <detail name="male">24.6 deaths/1,000 live births</detail>
+      <detail name="female">19.5 deaths/1,000 live births</detail>
+    </nested-detail>
+    <nested-detail name="Life expectancy at birth">
+      <detail name="total population">70.7 years</detail>
+      <detail name="male">66.9 years</detail>
+      <detail name="female">74.8 years</detail>
+    </nested-detail>
+    <nested-detail name="Literacy">
+      <detail name="definition">age 15 and over can read and write</detail>
+      <detail name="total population">100%</detail>
+      <detail name="male">100%</detail>
+      <detail name="female">100%</detail>
+    </nested-detail>
+    <nested-detail name="School life expectancy (primary to tertiary education)">
+      <detail name="total">11 years</detail>
+      <detail name="male">11 years</detail>
+      <detail name="female">11 years</detail>
+    </nested-detail>
+    <histogram name="Age structure" unit="%">
+      <entry from-age="0" to-age="14">20.78</entry>
+      <entry from-age="15" to-age="24">15.59</entry>
+      <entry from-age="25" to-age="54">44.28</entry>
+      <entry from-age="55" to-age="64">9.77</entry>
+      <entry from-age="65">9.56</entry>
+    </histogram>
+    <histogram description="male to female" name="Sex ratio">
+      <entry from-age="0" to-age="0">1.05</entry>
+      <entry from-age="0" to-age="14">1.03</entry>
+      <entry from-age="15" to-age="24">1.02</entry>
+      <entry from-age="25" to-age="54">1.01</entry>
+      <entry from-age="55" to-age="64">0.9</entry>
+      <entry from-age="65">0.53</entry>
+      <entry>0.94</entry>
+    </histogram>
+  </section>
+  <section name="Transnational issues" id="issues">
+    <list-detail name="Disputes - international">
+      <list-item>risking arrest, imprisonment, and deportation, tens of thousands of North Koreans cross into China to escape famine, economic privation, and political oppression</list-item>
+      <list-item>North Korea and China dispute the sovereignty of certain islands in Yalu and Tumen Rivers</list-item>
+      <list-item>Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953</list-item>
+      <list-item>periodic incidents in the Yellow Sea with South Korea which claims the Northern Limiting Line as a maritime boundary</list-item>
+      <list-item>North Korea supports South Korea in rejecting Japan's claim to Liancourt Rocks (Tok-do/Take-shima)</list-item>
+    </list-detail>
+    <list-detail name="Illicit drugs">
+      <list-item>at present there is insufficient information to determine the current level of involvement of government officials in the production or trafficking of illicit drugs, but for years, from the 1970s into the 2000s, citizens of the Democratic People's Republic of (North) Korea (DPRK), many of them diplomatic employees of the government, were apprehended abroad while trafficking in narcotics</list-item>
+      <list-item>police investigations in Taiwan and Japan in recent years have linked North Korea to large illicit shipments of heroin and methamphetamine</list-item>
+    </list-detail>
+    <nested-detail name="Refugees and internally displaced persons">
+      <detail name="IDPs">undetermined (periodic flooding and famine during mid-1990s)</detail>
+    </nested-detail>
+  </section>
+  <section name="Transportation" id="transport">
+    <detail name="Civil aircraft registration country code prefix">P</detail>
+    <detail name="Airports">82</detail>
+    <detail name="Heliports">23</detail>
+    <list-detail name="Pipelines">
+      <list-item>oil 6 km</list-item>
+    </list-detail>
+    <detail name="Waterways">2,250 km (most navigable only by small craft)</detail>
+    <nested-detail name="National air transport system">
+      <detail name="number of registered air carriers">1</detail>
+      <detail name="inventory of registered aircraft operated by air carriers">17</detail>
+      <detail name="annual passenger traffic on registered air carriers">223,418</detail>
+      <detail name="annual freight traffic on registered air carriers">1,574,719 mt-km</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with paved runways">
+      <detail name="total">39</detail>
+      <detail name="over 3,047 m">3</detail>
+      <detail name="2,438 to 3,047 m">22</detail>
+      <detail name="1,524 to 2,437 m">8</detail>
+      <detail name="914 to 1,523 m">2</detail>
+      <detail name="under 914 m">4</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with unpaved runways">
+      <detail name="total">43</detail>
+      <detail name="2,438 to 3,047 m">3</detail>
+      <detail name="1,524 to 2,437 m">17</detail>
+      <detail name="914 to 1,523 m">15</detail>
+      <detail name="under 914 m">8</detail>
+    </nested-detail>
+    <nested-detail name="Railways">
+      <detail name="total">7,435 km</detail>
+      <detail name="standard gauge">7,435 km 1.435-m gauge (5,400 km electrified)</detail>
+    </nested-detail>
+    <nested-detail name="Roadways">
+      <detail name="total">25,554 km</detail>
+      <detail name="paved">724 km</detail>
+      <detail name="unpaved">24,830 km</detail>
+    </nested-detail>
+    <nested-detail name="Merchant marine">
+      <detail name="total">248</detail>
+      <detail name="by type">bulk carrier 6, container ship 3, general cargo 184, oil tanker 25, other 30</detail>
+    </nested-detail>
+    <nested-detail name="Ports and terminals">
+      <detail name="major seaport(s)">Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan</detail>
+    </nested-detail>
+  </section>
+</country>

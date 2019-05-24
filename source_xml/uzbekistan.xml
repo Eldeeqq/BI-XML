@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<country generated-from="https://www.cia.gov/library/publications/the-world-factbook/geos/uz.html" id="uzbekistan">
+  <introduction>
+    <name>Uzbekistan</name>
+    <background>
+      <paragraph>Russia conquered the territory of present-day Uzbekistan in the late 19th century. Stiff resistance to the Red Army after the Bolshevik Revolution was eventually suppressed and a socialist republic established in 1924. During the Soviet era, intensive production of &quot;white gold&quot; (cotton) and grain led to overuse of agrochemicals and the depletion of water supplies, which have left the land degraded and the Aral Sea and certain rivers half dry. Independent since 1991 upon the dissolution of the USSR, the country has reduced its dependence on the cotton monoculture by diversifying agricultural production while developing its mineral and petroleum export capacity and increasing its manufacturing base. Uzbekistan’s first president, Islom KARIMOV, led Uzbekistan for 25 years until his death in September 2016. The political transition to his successor, then-Prime Minister Shavkat MIRZIYOYEV was peaceful, but sidelined the constitutional process where the chairman of the Senate would have served as the acting president. MIRZIYOYEV, who won the presidential election in December 2016, has improved relations with Uzbekistan’s neighbors and introduced wide-ranging economic and judicial reforms.</paragraph>
+    </background>
+  </introduction>
+  <pictures>
+    <picture description="Flag">https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uz-lgflag.gif</picture>
+    <picture description="Location">https://www.cia.gov/library/publications/the-world-factbook/graphics/locator/cas/uz_large_locator.gif</picture>
+    <picture description="Map">https://www.cia.gov/library/publications/resources/the-world-factbook/graphics/maps/uz-map.gif</picture>
+    <photos>
+      <photo description="The Aral Sea, on the border between Kazakhstan and Uzbekistan, has diminished dramatically since the 1950s when its water was diverted for unfettered irrigation. By 2000, when this photo was taken, the surface area of the Aral had decreased by about two-thirds, and its volume by more than 80 percent. Today, only three lakes remain (covering less than 10 percent of the former surface area) and only one of these, the North Aral Sea (the deep blue area toward the bottom), has been partially restored. Image courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/uz/images/UZ_001.jpg</photo>
+      <photo description="Throughout the first half of the 20th century, the Aral Sea was the world's fourth-largest lake. In the 1960s, the Soviet Union began a massive irrigation project in what are now Kazakhstan, Uzbekistan, and Turkmenistan, diverting water from the rivers that feed the Aral Sea to irrigate farmland. As its water levels dropped, the lake began splitting into smaller pieces: the Northern (Small) Aral Sea and the Southern (Large) Aral Sea. The Southern Aral Sea further split into eastern and western lobes. In August 2009 when this photo was taken, the Northern Aral Sea (upper right) still appeared healthy, the Southern Aral Sea consisted of two isolated water bodies: an irregular oval shape directly southwest of the Northern Aral Sea, and the long, thin remainder of the Southern Aral Sea's far western lobe. Much of what finally doomed the Southern Aral Sea was an attempt to save its neighbor to the north. In 2005, Kazakhstan built the Kok-Aral Dam between the lake's northern and southern portions to preserve water levels in the north. The Northern Aral Sea actually exceeded expectations with the speed of its recovery, but the dam ended prospects for a recovery of the Southern Aral Sea, which some authorities already regarded as beyond help. Lake sediments from this depleted water body have provided ample material for frequent dust storms. Image courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/uz/images/UZ_002.jpg</photo>
+    </photos>
+  </pictures>
+  <section name="Communications" id="communication">
+    <detail name="Broadcast media">government controls media; 18 state-owned broadcasters - 14 TV and 4 radio - provide service to virtually the entire country; about 20 privately owned TV stations, overseen by local officials, broadcast to local markets; privately owned TV stations are required to lease transmitters from the government-owned Republic TV and Radio Industry Corporation; in 2013, the government closed TV and radio broadcasters affiliated with the National Association of Electronic Mass Media (NAEMM) of Uzbekistan, a government-sponsored NGO for private broadcast media; in 2015, the NAEMM relaunched its TV channel under a different name</detail>
+    <detail name="Internet country code">.uz</detail>
+    <nested-detail name="Telephones - fixed lines">
+      <detail name="total subscriptions">3,412,921</detail>
+      <detail name="subscriptions per 100 inhabitants">12</detail>
+    </nested-detail>
+    <nested-detail name="Telephones - mobile cellular">
+      <detail name="total">23,265,389</detail>
+      <detail name="subscriptions per 100 inhabitants">79</detail>
+    </nested-detail>
+    <nested-detail name="Telephone system">
+      <detail name="general assessment">digital exchanges in large cities and in rural areas</detail>
+      <detail name="domestic">the state-owned telecommunications company, Uzbektelecom, owner of the fixed-line telecommunications system, has used loans from the Japanese government and the China Development Bank to upgrade fixed-line services including conversion to digital exchanges; mobile-cellular services are provided by 3 private and 2 state-owned operators with a total subscriber base of 22.8 million as of January 2018</detail>
+      <detail name="international">country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber- optic backbone project of Afghanistan since 2008</detail>
+    </nested-detail>
+    <nested-detail name="Internet users">
+      <detail name="total">13,791,083</detail>
+      <detail name="percent of population">46.8%</detail>
+    </nested-detail>
+  </section>
+  <section name="Economy" id="economy">
+    <detail name="Overview">Uzbekistan is a doubly landlocked country in which 51% of the population lives in urban settlements; the agriculture-rich Fergana Valley, in which Uzbekistan’s eastern borders are situated, has been counted among the most densely populated parts of Central Asia. Since its independence in September 1991, the government has largely maintained its Soviet-style command economy with subsidies and tight controls on production, prices, and access to foreign currency. Despite ongoing efforts to diversify crops, Uzbek agriculture remains largely centered on cotton; Uzbekistan is the world's fifth-largest cotton exporter and seventh-largest producer. Uzbekistan's growth has been driven primarily by state-led investments, and export of natural gas, gold, and cotton provides a significant share of foreign exchange earnings.</detail>
+    <detail name="GDP (purchasing power parity)">$221.7 billion</detail>
+    <detail name="GDP (official exchange rate)">$67.51 billion</detail>
+    <detail name="GDP per capita">$7,000</detail>
+    <detail name="Gross national saving">31.8% of GDP</detail>
+    <list-detail name="Agricultural products">
+      <list-item>cotton, vegetables, fruits, grain</list-item>
+      <list-item>livestock</list-item>
+    </list-detail>
+    <detail name="Industries">textiles, food processing, machine building, metallurgy, mining, hydrocarbon extraction, chemicals</detail>
+    <detail name="Industrial production growth rate">4.5%</detail>
+    <detail name="Labor force">18.12 million</detail>
+    <detail name="Unemployment rate">4.9%</detail>
+    <detail name="Population below poverty line">14%</detail>
+    <detail name="Distribution of family income - Gini index">36.8</detail>
+    <detail name="Taxes and other revenues">29.8% of GDP</detail>
+    <detail name="Budget surplus (+) or deficit (-)">0.3% of GDP</detail>
+    <detail name="Public debt">15.1% of GDP</detail>
+    <detail name="Fiscal year">calendar year</detail>
+    <detail name="Inflation rate (consumer prices)">13%</detail>
+    <detail name="Central bank discount rate">9%</detail>
+    <detail name="Commercial bank prime lending rate">16%</detail>
+    <detail name="Stock of narrow money">$6.456 billion</detail>
+    <detail name="Stock of broad money">$15.47 billion</detail>
+    <detail name="Stock of domestic credit">$9.506 billion</detail>
+    <detail name="Market value of publicly traded shares">$NA</detail>
+    <detail name="Current account balance">$632 million</detail>
+    <detail name="Exports">$11.38 billion</detail>
+    <detail name="Export commodities">energy products, cotton, gold, mineral fertilizers, ferrous and nonferrous metals, textiles, foodstuffs, machinery, automobiles</detail>
+    <detail name="Export partners">Switzerland 35.1%, China 19.7%, Russia 9.3%, Turkey 8.7%, Kazakhstan 7.2%, Bangladesh 5.4%, Afghanistan 4.9%</detail>
+    <detail name="Imports">$11.44 billion</detail>
+    <detail name="Import commodities">machinery and equipment, foodstuffs, chemicals, ferrous and nonferrous metals</detail>
+    <detail name="Import partners">China 22.2%, Russia 18%, South Korea 10.5%, Kazakhstan 10%, Turkey 5.8%, Germany 5.2%</detail>
+    <detail name="Reserves of foreign exchange and gold">$16 billion</detail>
+    <detail name="Debt - external">$16.86 billion</detail>
+    <detail name="Stock of direct foreign investment - at home">$NA</detail>
+    <detail name="Stock of direct foreign investment - abroad">$NA</detail>
+    <nested-detail name="GDP - composition, by end use">
+      <detail name="household consumption">58.4%</detail>
+      <detail name="government consumption">16.9%</detail>
+      <detail name="investment in fixed capital">25.2%</detail>
+      <detail name="investment in inventories">3%</detail>
+      <detail name="exports of goods and services">20%</detail>
+      <detail name="imports of goods and services">-20.5%</detail>
+    </nested-detail>
+    <nested-detail name="Labor force - by occupation">
+      <detail name="agriculture">25.9%</detail>
+      <detail name="industry">13.2%</detail>
+      <detail name="services">60.9%</detail>
+    </nested-detail>
+    <nested-detail name="Household income or consumption by percentage share">
+      <detail name="lowest 10%">2.8%</detail>
+      <detail name="highest 10%">29.6%</detail>
+    </nested-detail>
+    <nested-detail name="Budget">
+      <detail name="revenues">$20.11 billion</detail>
+      <detail name="expenditures">$19.92 billion</detail>
+    </nested-detail>
+  </section>
+  <section name="Energy" id="energy">
+    <detail name="Electricity - production">59 billion kWh</detail>
+    <detail name="Electricity - consumption">48 billion kWh</detail>
+    <detail name="Electricity - exports">13 billion kWh</detail>
+    <detail name="Electricity - imports">13 billion kWh</detail>
+    <detail name="Electricity - installed generating capacity">12.93 million kW</detail>
+    <detail name="Electricity - from fossil fuels">86.4% of total installed capacity</detail>
+    <detail name="Electricity - from nuclear fuels">0% of total installed capacity</detail>
+    <detail name="Electricity - from hydroelectric plants">13.6% of total installed capacity</detail>
+    <detail name="Electricity - from other renewable sources">0% of total installed capacity</detail>
+    <detail name="Crude oil - production">52,910 bbl/day</detail>
+    <detail name="Crude oil - exports">27,000 bbl/day</detail>
+    <detail name="Crude oil - imports">380 bbl/day</detail>
+    <detail name="Crude oil - proved reserves">594 million bbl</detail>
+    <detail name="Refined petroleum products - production">63,650 bbl/day</detail>
+    <detail name="Refined petroleum products - consumption">61,000 bbl/day</detail>
+    <detail name="Refined petroleum products - exports">4,102 bbl/day</detail>
+    <detail name="Refined petroleum products - imports">0 bbl/day</detail>
+    <detail name="Natural gas - production">55.7 billion cu m</detail>
+    <detail name="Natural gas - consumption">10.44 billion cu m</detail>
+    <detail name="Natural gas - exports">14.7 billion cu m</detail>
+    <detail name="Natural gas - imports">0 cu m</detail>
+    <detail name="Natural gas - proved reserves">1.841 trillion cu m</detail>
+    <detail name="Carbon dioxide emissions from consumption of energy">109 million Mt</detail>
+    <nested-detail name="Electricity access">
+      <detail name="electrification - total population">100%</detail>
+    </nested-detail>
+  </section>
+  <section name="Geography" id="geography">
+    <detail name="Location">Central Asia, north of Turkmenistan, south of Kazakhstan</detail>
+    <detail name="Coordinates">41 00 N, 64 00 E</detail>
+    <detail name="Coastline">0 km (doubly landlocked); note - Uzbekistan includes the southern portion of the Aral Sea with a 420 km shoreline</detail>
+    <detail name="Climate">mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east</detail>
+    <detail name="Terrain">mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo), and Zarafshon; Fergana Valley in east surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral Sea in west</detail>
+    <list-detail name="Natural resources">
+      <list-item>natural gas</list-item>
+      <list-item>petroleum</list-item>
+      <list-item>coal</list-item>
+      <list-item>gold</list-item>
+      <list-item>uranium</list-item>
+      <list-item>silver</list-item>
+      <list-item>copper</list-item>
+      <list-item>lead and zinc</list-item>
+      <list-item>tungsten</list-item>
+      <list-item>molybdenum</list-item>
+    </list-detail>
+    <detail name="Irrigated land">42,150 sq km</detail>
+    <list-detail name="Natural hazards">
+      <list-item>earthquakes</list-item>
+      <list-item>floods</list-item>
+      <list-item>landslides or mudslides</list-item>
+      <list-item>avalanches</list-item>
+      <list-item>droughts</list-item>
+    </list-detail>
+    <list-detail name="Current environment issues">
+      <list-item>shrinkage of the Aral Sea has resulted in growing concentrations of chemical pesticides and natural salts</list-item>
+      <list-item>these substances are then blown from the increasingly exposed lake bed and contribute to desertification and respiratory health problems</list-item>
+      <list-item>water pollution from industrial wastes and the heavy use of fertilizers and pesticides is the cause of many human health disorders</list-item>
+      <list-item>increasing soil salination</list-item>
+      <list-item>soil contamination from buried nuclear processing and agricultural chemicals, including DDT</list-item>
+    </list-detail>
+    <detail name="Population - distribution">most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated</detail>
+    <nested-detail name="Area">
+      <detail name="total">447,400 sq km</detail>
+      <detail name="land">425,400 sq km</detail>
+      <detail name="water">22,000 sq km</detail>
+    </nested-detail>
+    <nested-detail name="Land use">
+      <detail name="agricultural land">62.6%</detail>
+      <detail name="forest">7.7%</detail>
+      <detail name="other">29.7%</detail>
+    </nested-detail>
+    <nested-detail name="Environment international agreements">
+      <detail name="party to">Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands</detail>
+      <detail name="signed, but not ratified">none of the selected agreements</detail>
+    </nested-detail>
+    <nested-detail name="Elevation">
+      <detail name="mean elevation">NA</detail>
+      <detail name="elevation extremes">lowest point: Sariqamish Kuli -12 m</detail>
+    </nested-detail>
+    <detail name="Land boundaries">0 km (doubly landlocked); note - Uzbekistan includes the southern portion of the Aral Sea with a 420 km shoreline</detail>
+  </section>
+  <section name="Government" id="government">
+    <detail name="Government type">presidential republic; highly authoritarian</detail>
+    <list-detail name="Administrative divisions">
+      <list-item>12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 1 city** (shahar)</list-item>
+      <list-item>Andijon Viloyati, Buxoro Viloyati, Farg'ona Viloyati, Jizzax Viloyati, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Viloyati, Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Tashkent province], Xorazm Viloyati (Urganch)</list-item>
+    </list-detail>
+    <list-detail name="Independence">
+      <list-item>1 September 1991 (from the Soviet Union)</list-item>
+    </list-detail>
+    <detail name="National holiday">Independence Day, 1 September</detail>
+    <detail name="Legal system">civil law system</detail>
+    <detail name="International law organization participation">has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt</detail>
+    <detail name="Suffrage">18 years of age; universal</detail>
+    <list-detail name="International organization participation">
+      <list-item>ADB</list-item>
+      <list-item>CICA</list-item>
+      <list-item>CIS</list-item>
+      <list-item>EAPC</list-item>
+      <list-item>EBRD</list-item>
+      <list-item>ECO</list-item>
+      <list-item>FAO</list-item>
+      <list-item>IAEA</list-item>
+      <list-item>IBRD</list-item>
+      <list-item>ICAO</list-item>
+      <list-item>ICC (national committees)</list-item>
+      <list-item>ICCt</list-item>
+      <list-item>ICRM</list-item>
+      <list-item>IDA</list-item>
+      <list-item>IDB</list-item>
+      <list-item>IFAD</list-item>
+      <list-item>IFC</list-item>
+      <list-item>IFRCS</list-item>
+      <list-item>ILO</list-item>
+      <list-item>IMF</list-item>
+      <list-item>Interpol</list-item>
+      <list-item>IOC</list-item>
+      <list-item>ISO</list-item>
+      <list-item>ITSO</list-item>
+      <list-item>ITU</list-item>
+      <list-item>MIGA</list-item>
+      <list-item>NAM</list-item>
+      <list-item>OIC</list-item>
+      <list-item>OPCW</list-item>
+      <list-item>OSCE</list-item>
+      <list-item>PFP</list-item>
+      <list-item>SCO</list-item>
+      <list-item>UN</list-item>
+      <list-item>UN Security Council (temporary)</list-item>
+      <list-item>UNCTAD</list-item>
+      <list-item>UNESCO</list-item>
+      <list-item>UNIDO</list-item>
+      <list-item>UNWTO</list-item>
+      <list-item>UPU</list-item>
+      <list-item>WCO</list-item>
+      <list-item>WFTU (NGOs)</list-item>
+      <list-item>WHO</list-item>
+      <list-item>WIPO</list-item>
+      <list-item>WMO</list-item>
+      <list-item>WTO (observer)</list-item>
+    </list-detail>
+    <detail name="Flag description">three equal horizontal bands of blue (top), white, and green separated by red fimbriations with a white crescent moon (closed side to the hoist) and 12 white stars shifted to the hoist on the top band; blue is the color of the Turkic peoples and of the sky, white signifies peace and the striving for purity in thoughts and deeds, while green represents nature and is the color of Islam; the red stripes are the vital force of all living organisms that links good and pure ideas with the eternal sky and with deeds on earth; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar</detail>
+    <list-detail name="National symbol(s)">
+      <list-item>khumo (mythical bird)</list-item>
+      <list-item>national colors: blue, white, red, green</list-item>
+    </list-detail>
+    <nested-detail name="Country name">
+      <detail name="conventional long form">Republic of Uzbekistan</detail>
+      <detail name="conventional short form">Uzbekistan</detail>
+      <detail name="local long form">O'zbekiston Respublikasi</detail>
+      <detail name="local short form">O'zbekiston</detail>
+      <detail name="former">Uzbek Soviet Socialist Republic</detail>
+      <detail name="etymology">a combination of the Turkic words &quot;uz&quot; (self) and &quot;bek&quot; (master) with the Persian suffix &quot;-stan&quot; (country) to give the meaning &quot;Land of the Free&quot;</detail>
+    </nested-detail>
+    <nested-detail name="Capital">
+      <detail name="name">Tashkent (Toshkent)</detail>
+      <detail name="geographic coordinates">41 19 N, 69 15 E</detail>
+      <detail name="time difference">UTC+5 (10 hours ahead of Washington, DC, during Standard Time)</detail>
+    </nested-detail>
+    <nested-detail name="Constitution">
+      <detail name="history">several previous; latest adopted 8 December 1992</detail>
+      <detail name="amendments">proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum; amended several times, last in 2014</detail>
+    </nested-detail>
+    <nested-detail name="Citizenship">
+      <detail name="citizenship by birth">no</detail>
+      <detail name="citizenship by descent only">at least one parent must be a citizen of Uzbekistan</detail>
+      <detail name="dual citizenship recognized">no</detail>
+      <detail name="residency requirement for naturalization">5 years</detail>
+    </nested-detail>
+    <nested-detail name="Executive branch">
+      <detail name="chief of state">President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016)</detail>
+      <detail name="head of government">Prime Minister Abdulla ARIPOV (since 14 December 2016); First Deputy Prime Minister Achilbay RAMATOV (since 15 December 2016)</detail>
+      <detail name="cabinet">Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)</detail>
+      <detail name="elections/appointments">president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term; previously a 5-year term, extended by a 2002 constitutional amendment to 7 years, and reverted to 5 years in 2011); election last held on 4 December 2016 ; prime minister nominated by majority party in legislature since 2011, but appointed along with the ministers and deputy ministers by the president</detail>
+      <detail name="election results">Shavkat MIRZIYOYEV elected president; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Khatamjon KETMONOV (NDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURADOV (Milliy Tiklanish/National Revival) 2.4%, other 1.8%</detail>
+    </nested-detail>
+    <nested-detail name="Legislative branch">
+      <detail name="description">bicameral Supreme Assembly or Oliy Majlis consists of the Senate (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms) and the Legislative Chamber or Qonunchilik Palatasi (150 seats; 135 members directly elected in single-seat constituencies by absolute majority vote with a second round, if needed, and 15 indirectly elected by the Ecological Movement of Uzbekistan; members serve 5-year terms)</detail>
+      <detail name="note">all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV</detail>
+      <detail name="elections">last held on 21 December 2014 and 4 January 2015</detail>
+      <detail name="election results">Senate - percent of vote by party - NA; seats by party - NA; Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 52, National Revival Democratic Party 36, NDP 27, Adolat 20, Ecological Movement 15</detail>
+    </nested-detail>
+    <nested-detail name="Judicial branch">
+      <detail name="highest court(s)">Supreme Court (consists of 67 judges organized into administrative, civil, criminal, economic, and military sections); Constitutional Court (consists of 7 judges)</detail>
+      <detail name="judge selection and term of office">judges of the highest courts nominated by the president and confirmed by the Oliy Majlis; judges appointed for initial 5-year term, subsequent 10-year term, and lifetime term subject to reappointment</detail>
+      <detail name="subordinate courts">regional, district, city, and town courts; economic courts</detail>
+    </nested-detail>
+    <nested-detail name="National anthem">
+      <detail name="name">&quot;O'zbekiston Respublikasining Davlat Madhiyasi&quot; (National Anthem of the Republic of Uzbekistan)</detail>
+      <detail name="lyrics/music">Abdulla ARIPOV/Mutal BURHANOV</detail>
+      <detail name="note">adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of the anthem from its time as a Soviet Republic but adopted new lyrics</detail>
+    </nested-detail>
+    <list-detail name="Political parties and leaders">
+      <list-item>Ecological Movement of Uzbekistan (O'zbekiston Ekologik Harakati) [Boriy ALIKHANOV]</list-item>
+      <list-item>Justice (Adolat) Social Democratic Party of Uzbekistan [Narimon UMAROV]</list-item>
+      <list-item>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Shavkat MIRZIYOYEV]</list-item>
+      <list-item>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Sarvar OTAMURATOV]</list-item>
+      <list-item>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or NDP [Hotamjon KETMONOV] (formerly Communist Party)</list-item>
+    </list-detail>
+    <list-detail name="Political pressure groups and leaders">
+      <list-item>no significant opposition political parties or pressure groups in Uzbekistan</list-item>
+    </list-detail>
+    <nested-detail name="Diplomatic representation in the US">
+      <detail name="chief of mission">Ambassador Javlon VAHOBOV (since 1 December 2017)</detail>
+      <detail name="chancery">1746 Massachusetts Avenue NW, Washington, DC 20036</detail>
+      <detail name="telephone">[1] (202) 887-5300</detail>
+      <detail name="FAX">[1] (202) 293-6804</detail>
+      <detail name="consulate(s) general">New York</detail>
+    </nested-detail>
+    <nested-detail name="Diplomatic representation from the US">
+      <detail name="chief of mission">Ambassador Pamela L. SPRATLEN (since 27 January 2015)</detail>
+      <detail name="embassy">3 Moyqo'rq'on, 5th Block, Yunusobod District, Tashkent 100093</detail>
+      <detail name="mailing address">use embassy street address</detail>
+      <detail name="telephone">[998] (71) 120-5450</detail>
+      <detail name="FAX">[998] (71) 120-6335</detail>
+    </nested-detail>
+  </section>
+  <section name="Military and security" id="military">
+    <list-detail name="Military service age and obligation">
+      <list-item>18 years of age for compulsory military service</list-item>
+      <list-item>1-month or 1-year conscript service obligation for males</list-item>
+      <list-item>moving toward a professional military, but conscription in some form will continue</list-item>
+      <list-item>the military cannot accommodate everyone who wishes to enlist, and competition for entrance into the military is similar to the competition for admission to universities</list-item>
+      <list-item>note - widely considered to have one of the strongest militaries in Central Asia, although it is untested</list-item>
+    </list-detail>
+    <detail name="Military branches">Armed Forces: Army, Air and Air Defense Forces, National Guard</detail>
+  </section>
+  <section name="People and society" id="people">
+    <detail name="Population">29,748,859</detail>
+    <list-detail name="Ethnic groups">
+      <list-item>Uzbek 80%</list-item>
+      <list-item>Russian 5.5%</list-item>
+      <list-item>Tajik 5%</list-item>
+      <list-item>Kazakh 3%</list-item>
+      <list-item>Karakalpak 2.5%</list-item>
+      <list-item>Tatar 1.5%</list-item>
+      <list-item>other 2.5%</list-item>
+    </list-detail>
+    <list-detail name="Languages">
+      <list-item>Uzbek (official) 74.3%</list-item>
+      <list-item>Russian 14.2%</list-item>
+      <list-item>Tajik 4.4%</list-item>
+      <list-item>other 7.1%</list-item>
+    </list-detail>
+    <detail name="Religions">Muslim 88% (mostly Sunni), Eastern Orthodox 9%, other 3%</detail>
+    <detail name="Population growth rate">0.93%</detail>
+    <detail name="Birth rate">16.8 births/1,000 population</detail>
+    <detail name="Death rate">5.3 deaths/1,000 population</detail>
+    <detail name="Net migration rate">-2.2 migrant(s)/1,000 population</detail>
+    <detail name="Population distribution">most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated</detail>
+    <detail name="Mother's mean age at first birth">23.4 years</detail>
+    <detail name="Total fertility rate">1.76 children born/woman</detail>
+    <detail name="Health expenditures">5.8% of GDP</detail>
+    <detail name="Physicians density">2.45 physicians/1,000 population</detail>
+    <detail name="Hospital bed density">4 beds/1,000 population</detail>
+    <detail name="Total fertility rate">1.76 children born/woman</detail>
+    <list-detail name="Urban areas">
+      <list-item>TASHKENT (capital) 2.251 million</list-item>
+    </list-detail>
+    <detail name="HIV/AIDS - adult prevalence rate">NA</detail>
+    <detail name="HIV/AIDS - people living with HIV/AIDS">NA</detail>
+    <detail name="HIV/AIDS - deaths">NA</detail>
+    <detail name="Obesity - adult prevalence rate">16.6%</detail>
+    <detail name="Education expenditures">NA</detail>
+    <detail name="Nationality">Uzbekistani</detail>
+    <nested-detail name="Dependency ratios">
+      <detail name="total dependency ratio">47.7</detail>
+      <detail name="youth dependency ratio">41.4</detail>
+      <detail name="elderly dependency ratio">6.2</detail>
+    </nested-detail>
+    <nested-detail name="Median age">
+      <detail name="total">28.6 years</detail>
+      <detail name="male">28 years</detail>
+      <detail name="female">29.2 years</detail>
+    </nested-detail>
+    <nested-detail name="Urbanization">
+      <detail name="urban population">36.6% of total population</detail>
+      <detail name="rate of urbanization">1.62% annual rate of change (2015-20 est.)</detail>
+    </nested-detail>
+    <nested-detail name="Infant mortality rate">
+      <detail name="total">18 deaths/1,000 live births</detail>
+      <detail name="male">21.4 deaths/1,000 live births</detail>
+      <detail name="female">14.4 deaths/1,000 live births</detail>
+    </nested-detail>
+    <nested-detail name="Life expectancy at birth">
+      <detail name="total population">74 years</detail>
+      <detail name="male">71 years</detail>
+      <detail name="female">77.3 years</detail>
+    </nested-detail>
+    <nested-detail name="Literacy">
+      <detail name="definition">age 15 and over can read and write</detail>
+      <detail name="total population">100%</detail>
+      <detail name="male">100%</detail>
+      <detail name="female">100%</detail>
+    </nested-detail>
+    <nested-detail name="School life expectancy (primary to tertiary education)">
+      <detail name="total">12 years</detail>
+      <detail name="male">13 years</detail>
+      <detail name="female">12 years</detail>
+    </nested-detail>
+    <histogram name="Age structure" unit="%">
+      <entry from-age="0" to-age="14">23.88</entry>
+      <entry from-age="15" to-age="24">18.52</entry>
+      <entry from-age="25" to-age="54">44.49</entry>
+      <entry from-age="55" to-age="64">7.85</entry>
+      <entry from-age="65">5.25</entry>
+    </histogram>
+    <histogram description="male to female" name="Sex ratio">
+      <entry from-age="0" to-age="0">1.05</entry>
+      <entry from-age="0" to-age="14">1.05</entry>
+      <entry from-age="15" to-age="24">1.03</entry>
+      <entry from-age="25" to-age="54">0.99</entry>
+      <entry from-age="55" to-age="64">0.9</entry>
+      <entry from-age="65">0.74</entry>
+      <entry>0.99</entry>
+    </histogram>
+  </section>
+  <section name="Transnational issues" id="issues">
+    <list-detail name="Disputes - international">
+      <list-item>prolonged drought and cotton monoculture in Uzbekistan and Turkmenistan created water-sharing difficulties for Amu Darya river states</list-item>
+      <list-item>field demarcation of the boundaries with Kazakhstan commenced in 2004</list-item>
+      <list-item>border delimitation of 130 km of border with Kyrgyzstan is hampered by serious disputes around enclaves and other areas</list-item>
+    </list-detail>
+    <list-detail name="Illicit drugs">
+      <list-item>transit country for Afghan narcotics bound for Russian and, to a lesser extent, Western European markets</list-item>
+      <list-item>limited illicit cultivation of cannabis and small amounts of opium poppy for domestic consumption</list-item>
+      <list-item>poppy cultivation almost wiped out by government crop eradication program</list-item>
+      <list-item>transit point for heroin precursor chemicals bound for Afghanistan</list-item>
+    </list-detail>
+    <nested-detail name="Refugees and internally displaced persons">
+      <detail name="stateless persons">86,524</detail>
+    </nested-detail>
+  </section>
+  <section name="Transportation" id="transport">
+    <detail name="Civil aircraft registration country code prefix">UK</detail>
+    <detail name="Airports">53</detail>
+    <list-detail name="Pipelines">
+      <list-item>gas 13,700 km</list-item>
+      <list-item>oil 944 km</list-item>
+    </list-detail>
+    <detail name="Waterways">1,100 km</detail>
+    <nested-detail name="National air transport system">
+      <detail name="number of registered air carriers">2</detail>
+      <detail name="inventory of registered aircraft operated by air carriers">29</detail>
+      <detail name="annual passenger traffic on registered air carriers">2,486,673</detail>
+      <detail name="annual freight traffic on registered air carriers">114,334,520 mt-km</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with paved runways">
+      <detail name="total">33</detail>
+      <detail name="over 3,047 m">6</detail>
+      <detail name="2,438 to 3,047 m">13</detail>
+      <detail name="1,524 to 2,437 m">6</detail>
+      <detail name="914 to 1,523 m">4</detail>
+      <detail name="under 914 m">4</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with unpaved runways">
+      <detail name="total">20</detail>
+      <detail name="2,438 to 3,047 m">2</detail>
+      <detail name="under 914 m">18</detail>
+    </nested-detail>
+    <nested-detail name="Railways">
+      <detail name="total">4,642 km</detail>
+      <detail name="broad gauge">4,642 km 1.520-m gauge (1,684 km electrified)</detail>
+    </nested-detail>
+    <nested-detail name="Roadways">
+      <detail name="total">86,496 km</detail>
+      <detail name="paved">75,511 km</detail>
+      <detail name="unpaved">10,985 km</detail>
+    </nested-detail>
+    <nested-detail name="Ports and terminals">
+      <detail name="river port(s)">Termiz (Amu Darya)</detail>
+    </nested-detail>
+  </section>
+</country>

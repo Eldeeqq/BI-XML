@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE project [
+    <!ENTITY uzbekistan SYSTEM "../source_xml/uzbekistan.xml">
+    <!ENTITY somalia SYSTEM "../source_xml/somalia.xml">
+    <!ENTITY south_africa SYSTEM "../source_xml/south_africa.xml">
+    <!ENTITY korea_north SYSTEM "../source_xml/korea_north.xml">
+]>
+<project>
+    &uzbekistan;
+    &somalia;
+    &south_africa;
+    &korea_north;
+</project>

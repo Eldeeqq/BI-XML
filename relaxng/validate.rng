@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+    <start>
+        <element name="country">
+            <attribute name="generated-from">
+                <data type="anyURI"/>
+            </attribute>
+            <attribute name="id">
+                <data type="NCName"/>
+            </attribute>
+            <element name="introduction">
+                <element name="name">
+                    <text/>
+                </element>
+                <element name="background">
+                    <oneOrMore>
+                        <element name="paragraph">
+                            <text/>
+                        </element>
+                    </oneOrMore>
+                </element>
+            </element>
+            <element name="pictures">
+                <oneOrMore>
+                    <element name="picture">
+                        <attribute name="description">
+                            <data type="NCName"/>
+                        </attribute>
+                        <data type="anyURI"/>
+                    </element>
+                </oneOrMore>
+                <element name="photos">
+                    <oneOrMore>
+                        <element name="photo">
+                            <attribute name="description"/>
+                            <data type="anyURI"/>
+                        </element>
+                    </oneOrMore>
+                </element>
+            </element>
+            <oneOrMore>
+                <element name="section">
+                    <attribute name="id">
+                        <data type="NCName"/>
+                    </attribute>
+                    <attribute name="name"/>
+                    <oneOrMore>
+                        <choice>
+                            <ref name="detail"/>
+                            <ref name="list-detail"/>
+                            <element name="nested-detail">
+                                <attribute name="name"/>
+                                <oneOrMore>
+                                    <ref name="detail"/>
+                                </oneOrMore>
+                                <optional>
+                                    <ref name="list-detail"/>
+                                </optional>
+                            </element>
+                        </choice>
+                    </oneOrMore>
+                    <zeroOrMore>
+                        <element name="histogram">
+                            <optional>
+                                <attribute name="description"/>
+                            </optional>
+                            <attribute name="name"/>
+                            <optional>
+                                <attribute name="unit"/>
+                            </optional>
+                            <oneOrMore>
+                                <element name="entry">
+                                    <optional>
+                                        <attribute name="from-age">
+                                            <data type="integer"/>
+                                        </attribute>
+                                    </optional>
+                                    <optional>
+                                        <attribute name="to-age">
+                                            <data type="integer"/>
+                                        </attribute>
+                                    </optional>
+                                    <data type="decimal"/>
+                                </element>
+                            </oneOrMore>
+                        </element>
+                    </zeroOrMore>
+                </element>
+            </oneOrMore>
+        </element>
+    </start>
+    <define name="list-detail">
+        <element name="list-detail">
+            <attribute name="name"/>
+            <oneOrMore>
+                <element name="list-item">
+                    <text/>
+                </element>
+            </oneOrMore>
+        </element>
+    </define>
+    <define name="detail">
+        <element name="detail">
+            <attribute name="name"/>
+            <text/>
+        </element>
+    </define>
+</grammar>

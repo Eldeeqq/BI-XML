@@ -1,0 +1,43 @@
+<?xml encoding="UTF-8"?>
+<!-- LAYER 0 - root element -->
+<!ELEMENT country (introduction,pictures,section+)>
+<!ATTLIST country id CDATA #REQUIRED generated-from CDATA #REQUIRED>
+
+<!-- LAYER 1 - root childs - intro+pictures+section -->
+<!ELEMENT introduction (name, background)>
+<!ELEMENT pictures (picture+, photos)>
+<!ELEMENT section (detail|nested-detail|list-detail|histogram)+>
+<!ATTLIST section name CDATA #REQUIRED id CDATA #REQUIRED>
+
+<!-- LAYER 2 - intro childs -->
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT background (paragraph)+>
+
+<!-- LAYER 2 - pictures - childs -->
+<!ELEMENT picture (#PCDATA)>
+<!ATTLIST picture description CDATA #REQUIRED>
+<!ELEMENT photos (photo)*>
+
+<!-- LAYER 2 - section - childs detail,nested-detail,list-detail,histogram -->
+<!ELEMENT detail (#PCDATA)>
+<!ATTLIST detail name CDATA #REQUIRED>
+<!ELEMENT nested-detail (list-detail|detail)+>
+<!ATTLIST nested-detail name CDATA #REQUIRED>
+<!ELEMENT list-detail (list-item)+>
+<!ATTLIST list-detail name CDATA #REQUIRED>
+<!ELEMENT histogram (entry)+>
+<!ATTLIST histogram name CDATA #REQUIRED description CDATA #IMPLIED unit CDATA #IMPLIED>
+
+<!-- LAYER 3 - nested-detail - child list-item -->
+<!ELEMENT list-item (#PCDATA)>
+
+<!-- LAYER 3 - histogram - child entry -->
+<!ELEMENT entry (#PCDATA)>
+<!ATTLIST entry from-age CDATA #IMPLIED to-age CDATA #IMPLIED>
+
+<!-- LAYER 3 - background - child paragraph -->
+<!ELEMENT paragraph (#PCDATA)>
+
+<!-- LAYER 3 - photos - child photo -->
+<!ELEMENT photo (#PCDATA)>
+<!ATTLIST photo description CDATA #IMPLIED>

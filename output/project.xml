@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    
+<country generated-from="https://www.cia.gov/library/publications/the-world-factbook/geos/uz.html" id="uzbekistan">
+  <introduction>
+    <name>Uzbekistan</name>
+    <background>
+      <paragraph>Russia conquered the territory of present-day Uzbekistan in the late 19th century. Stiff resistance to the Red Army after the Bolshevik Revolution was eventually suppressed and a socialist republic established in 1924. During the Soviet era, intensive production of "white gold" (cotton) and grain led to overuse of agrochemicals and the depletion of water supplies, which have left the land degraded and the Aral Sea and certain rivers half dry. Independent since 1991 upon the dissolution of the USSR, the country has reduced its dependence on the cotton monoculture by diversifying agricultural production while developing its mineral and petroleum export capacity and increasing its manufacturing base. Uzbekistan’s first president, Islom KARIMOV, led Uzbekistan for 25 years until his death in September 2016. The political transition to his successor, then-Prime Minister Shavkat MIRZIYOYEV was peaceful, but sidelined the constitutional process where the chairman of the Senate would have served as the acting president. MIRZIYOYEV, who won the presidential election in December 2016, has improved relations with Uzbekistan’s neighbors and introduced wide-ranging economic and judicial reforms.</paragraph>
+    </background>
+  </introduction>
+  <pictures>
+    <picture description="Flag">https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uz-lgflag.gif</picture>
+    <picture description="Location">https://www.cia.gov/library/publications/the-world-factbook/graphics/locator/cas/uz_large_locator.gif</picture>
+    <picture description="Map">https://www.cia.gov/library/publications/resources/the-world-factbook/graphics/maps/uz-map.gif</picture>
+    <photos>
+      <photo description="The Aral Sea, on the border between Kazakhstan and Uzbekistan, has diminished dramatically since the 1950s when its water was diverted for unfettered irrigation. By 2000, when this photo was taken, the surface area of the Aral had decreased by about two-thirds, and its volume by more than 80 percent. Today, only three lakes remain (covering less than 10 percent of the former surface area) and only one of these, the North Aral Sea (the deep blue area toward the bottom), has been partially restored. Image courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/uz/images/UZ_001.jpg</photo>
+      <photo description="Throughout the first half of the 20th century, the Aral Sea was the world's fourth-largest lake. In the 1960s, the Soviet Union began a massive irrigation project in what are now Kazakhstan, Uzbekistan, and Turkmenistan, diverting water from the rivers that feed the Aral Sea to irrigate farmland. As its water levels dropped, the lake began splitting into smaller pieces: the Northern (Small) Aral Sea and the Southern (Large) Aral Sea. The Southern Aral Sea further split into eastern and western lobes. In August 2009 when this photo was taken, the Northern Aral Sea (upper right) still appeared healthy, the Southern Aral Sea consisted of two isolated water bodies: an irregular oval shape directly southwest of the Northern Aral Sea, and the long, thin remainder of the Southern Aral Sea's far western lobe. Much of what finally doomed the Southern Aral Sea was an attempt to save its neighbor to the north. In 2005, Kazakhstan built the Kok-Aral Dam between the lake's northern and southern portions to preserve water levels in the north. The Northern Aral Sea actually exceeded expectations with the speed of its recovery, but the dam ended prospects for a recovery of the Southern Aral Sea, which some authorities already regarded as beyond help. Lake sediments from this depleted water body have provided ample material for frequent dust storms. Image courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/uz/images/UZ_002.jpg</photo>
+    </photos>
+  </pictures>
+  <section name="Communications" id="communication">
+    <detail name="Broadcast media">government controls media; 18 state-owned broadcasters - 14 TV and 4 radio - provide service to virtually the entire country; about 20 privately owned TV stations, overseen by local officials, broadcast to local markets; privately owned TV stations are required to lease transmitters from the government-owned Republic TV and Radio Industry Corporation; in 2013, the government closed TV and radio broadcasters affiliated with the National Association of Electronic Mass Media (NAEMM) of Uzbekistan, a government-sponsored NGO for private broadcast media; in 2015, the NAEMM relaunched its TV channel under a different name</detail>
+    <detail name="Internet country code">.uz</detail>
+    <nested-detail name="Telephones - fixed lines">
+      <detail name="total subscriptions">3,412,921</detail>
+      <detail name="subscriptions per 100 inhabitants">12</detail>
+    </nested-detail>
+    <nested-detail name="Telephones - mobile cellular">
+      <detail name="total">23,265,389</detail>
+      <detail name="subscriptions per 100 inhabitants">79</detail>
+    </nested-detail>
+    <nested-detail name="Telephone system">
+      <detail name="general assessment">digital exchanges in large cities and in rural areas</detail>
+      <detail name="domestic">the state-owned telecommunications company, Uzbektelecom, owner of the fixed-line telecommunications system, has used loans from the Japanese government and the China Development Bank to upgrade fixed-line services including conversion to digital exchanges; mobile-cellular services are provided by 3 private and 2 state-owned operators with a total subscriber base of 22.8 million as of January 2018</detail>
+      <detail name="international">country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber- optic backbone project of Afghanistan since 2008</detail>
+    </nested-detail>
+    <nested-detail name="Internet users">
+      <detail name="total">13,791,083</detail>
+      <detail name="percent of population">46.8%</detail>
+    </nested-detail>
+  </section>
+  <section name="Economy" id="economy">
+    <detail name="Overview">Uzbekistan is a doubly landlocked country in which 51% of the population lives in urban settlements; the agriculture-rich Fergana Valley, in which Uzbekistan’s eastern borders are situated, has been counted among the most densely populated parts of Central Asia. Since its independence in September 1991, the government has largely maintained its Soviet-style command economy with subsidies and tight controls on production, prices, and access to foreign currency. Despite ongoing efforts to diversify crops, Uzbek agriculture remains largely centered on cotton; Uzbekistan is the world's fifth-largest cotton exporter and seventh-largest producer. Uzbekistan's growth has been driven primarily by state-led investments, and export of natural gas, gold, and cotton provides a significant share of foreign exchange earnings.</detail>
+    <detail name="GDP (purchasing power parity)">$221.7 billion</detail>
+    <detail name="GDP (official exchange rate)">$67.51 billion</detail>
+    <detail name="GDP per capita">$7,000</detail>
+    <detail name="Gross national saving">31.8% of GDP</detail>
+    <list-detail name="Agricultural products">
+      <list-item>cotton, vegetables, fruits, grain</list-item>
+      <list-item>livestock</list-item>
+    </list-detail>
+    <detail name="Industries">textiles, food processing, machine building, metallurgy, mining, hydrocarbon extraction, chemicals</detail>
+    <detail name="Industrial production growth rate">4.5%</detail>
+    <detail name="Labor force">18.12 million</detail>
+    <detail name="Unemployment rate">4.9%</detail>
+    <detail name="Population below poverty line">14%</detail>
+    <detail name="Distribution of family income - Gini index">36.8</detail>
+    <detail name="Taxes and other revenues">29.8% of GDP</detail>
+    <detail name="Budget surplus (+) or deficit (-)">0.3% of GDP</detail>
+    <detail name="Public debt">15.1% of GDP</detail>
+    <detail name="Fiscal year">calendar year</detail>
+    <detail name="Inflation rate (consumer prices)">13%</detail>
+    <detail name="Central bank discount rate">9%</detail>
+    <detail name="Commercial bank prime lending rate">16%</detail>
+    <detail name="Stock of narrow money">$6.456 billion</detail>
+    <detail name="Stock of broad money">$15.47 billion</detail>
+    <detail name="Stock of domestic credit">$9.506 billion</detail>
+    <detail name="Market value of publicly traded shares">$NA</detail>
+    <detail name="Current account balance">$632 million</detail>
+    <detail name="Exports">$11.38 billion</detail>
+    <detail name="Export commodities">energy products, cotton, gold, mineral fertilizers, ferrous and nonferrous metals, textiles, foodstuffs, machinery, automobiles</detail>
+    <detail name="Export partners">Switzerland 35.1%, China 19.7%, Russia 9.3%, Turkey 8.7%, Kazakhstan 7.2%, Bangladesh 5.4%, Afghanistan 4.9%</detail>
+    <detail name="Imports">$11.44 billion</detail>
+    <detail name="Import commodities">machinery and equipment, foodstuffs, chemicals, ferrous and nonferrous metals</detail>
+    <detail name="Import partners">China 22.2%, Russia 18%, South Korea 10.5%, Kazakhstan 10%, Turkey 5.8%, Germany 5.2%</detail>
+    <detail name="Reserves of foreign exchange and gold">$16 billion</detail>
+    <detail name="Debt - external">$16.86 billion</detail>
+    <detail name="Stock of direct foreign investment - at home">$NA</detail>
+    <detail name="Stock of direct foreign investment - abroad">$NA</detail>
+    <nested-detail name="GDP - composition, by end use">
+      <detail name="household consumption">58.4%</detail>
+      <detail name="government consumption">16.9%</detail>
+      <detail name="investment in fixed capital">25.2%</detail>
+      <detail name="investment in inventories">3%</detail>
+      <detail name="exports of goods and services">20%</detail>
+      <detail name="imports of goods and services">-20.5%</detail>
+    </nested-detail>
+    <nested-detail name="Labor force - by occupation">
+      <detail name="agriculture">25.9%</detail>
+      <detail name="industry">13.2%</detail>
+      <detail name="services">60.9%</detail>
+    </nested-detail>
+    <nested-detail name="Household income or consumption by percentage share">
+      <detail name="lowest 10%">2.8%</detail>
+      <detail name="highest 10%">29.6%</detail>
+    </nested-detail>
+    <nested-detail name="Budget">
+      <detail name="revenues">$20.11 billion</detail>
+      <detail name="expenditures">$19.92 billion</detail>
+    </nested-detail>
+  </section>
+  <section name="Energy" id="energy">
+    <detail name="Electricity - production">59 billion kWh</detail>
+    <detail name="Electricity - consumption">48 billion kWh</detail>
+    <detail name="Electricity - exports">13 billion kWh</detail>
+    <detail name="Electricity - imports">13 billion kWh</detail>
+    <detail name="Electricity - installed generating capacity">12.93 million kW</detail>
+    <detail name="Electricity - from fossil fuels">86.4% of total installed capacity</detail>
+    <detail name="Electricity - from nuclear fuels">0% of total installed capacity</detail>
+    <detail name="Electricity - from hydroelectric plants">13.6% of total installed capacity</detail>
+    <detail name="Electricity - from other renewable sources">0% of total installed capacity</detail>
+    <detail name="Crude oil - production">52,910 bbl/day</detail>
+    <detail name="Crude oil - exports">27,000 bbl/day</detail>
+    <detail name="Crude oil - imports">380 bbl/day</detail>
+    <detail name="Crude oil - proved reserves">594 million bbl</detail>
+    <detail name="Refined petroleum products - production">63,650 bbl/day</detail>
+    <detail name="Refined petroleum products - consumption">61,000 bbl/day</detail>
+    <detail name="Refined petroleum products - exports">4,102 bbl/day</detail>
+    <detail name="Refined petroleum products - imports">0 bbl/day</detail>
+    <detail name="Natural gas - production">55.7 billion cu m</detail>
+    <detail name="Natural gas - consumption">10.44 billion cu m</detail>
+    <detail name="Natural gas - exports">14.7 billion cu m</detail>
+    <detail name="Natural gas - imports">0 cu m</detail>
+    <detail name="Natural gas - proved reserves">1.841 trillion cu m</detail>
+    <detail name="Carbon dioxide emissions from consumption of energy">109 million Mt</detail>
+    <nested-detail name="Electricity access">
+      <detail name="electrification - total population">100%</detail>
+    </nested-detail>
+  </section>
+  <section name="Geography" id="geography">
+    <detail name="Location">Central Asia, north of Turkmenistan, south of Kazakhstan</detail>
+    <detail name="Coordinates">41 00 N, 64 00 E</detail>
+    <detail name="Coastline">0 km (doubly landlocked); note - Uzbekistan includes the southern portion of the Aral Sea with a 420 km shoreline</detail>
+    <detail name="Climate">mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east</detail>
+    <detail name="Terrain">mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo), and Zarafshon; Fergana Valley in east surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral Sea in west</detail>
+    <list-detail name="Natural resources">
+      <list-item>natural gas</list-item>
+      <list-item>petroleum</list-item>
+      <list-item>coal</list-item>
+      <list-item>gold</list-item>
+      <list-item>uranium</list-item>
+      <list-item>silver</list-item>
+      <list-item>copper</list-item>
+      <list-item>lead and zinc</list-item>
+      <list-item>tungsten</list-item>
+      <list-item>molybdenum</list-item>
+    </list-detail>
+    <detail name="Irrigated land">42,150 sq km</detail>
+    <list-detail name="Natural hazards">
+      <list-item>earthquakes</list-item>
+      <list-item>floods</list-item>
+      <list-item>landslides or mudslides</list-item>
+      <list-item>avalanches</list-item>
+      <list-item>droughts</list-item>
+    </list-detail>
+    <list-detail name="Current environment issues">
+      <list-item>shrinkage of the Aral Sea has resulted in growing concentrations of chemical pesticides and natural salts</list-item>
+      <list-item>these substances are then blown from the increasingly exposed lake bed and contribute to desertification and respiratory health problems</list-item>
+      <list-item>water pollution from industrial wastes and the heavy use of fertilizers and pesticides is the cause of many human health disorders</list-item>
+      <list-item>increasing soil salination</list-item>
+      <list-item>soil contamination from buried nuclear processing and agricultural chemicals, including DDT</list-item>
+    </list-detail>
+    <detail name="Population - distribution">most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated</detail>
+    <nested-detail name="Area">
+      <detail name="total">447,400 sq km</detail>
+      <detail name="land">425,400 sq km</detail>
+      <detail name="water">22,000 sq km</detail>
+    </nested-detail>
+    <nested-detail name="Land use">
+      <detail name="agricultural land">62.6%</detail>
+      <detail name="forest">7.7%</detail>
+      <detail name="other">29.7%</detail>
+    </nested-detail>
+    <nested-detail name="Environment international agreements">
+      <detail name="party to">Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands</detail>
+      <detail name="signed, but not ratified">none of the selected agreements</detail>
+    </nested-detail>
+    <nested-detail name="Elevation">
+      <detail name="mean elevation">NA</detail>
+      <detail name="elevation extremes">lowest point: Sariqamish Kuli -12 m</detail>
+    </nested-detail>
+    <detail name="Land boundaries">0 km (doubly landlocked); note - Uzbekistan includes the southern portion of the Aral Sea with a 420 km shoreline</detail>
+  </section>
+  <section name="Government" id="government">
+    <detail name="Government type">presidential republic; highly authoritarian</detail>
+    <list-detail name="Administrative divisions">
+      <list-item>12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 1 city** (shahar)</list-item>
+      <list-item>Andijon Viloyati, Buxoro Viloyati, Farg'ona Viloyati, Jizzax Viloyati, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Viloyati, Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Tashkent province], Xorazm Viloyati (Urganch)</list-item>
+    </list-detail>
+    <list-detail name="Independence">
+      <list-item>1 September 1991 (from the Soviet Union)</list-item>
+    </list-detail>
+    <detail name="National holiday">Independence Day, 1 September</detail>
+    <detail name="Legal system">civil law system</detail>
+    <detail name="International law organization participation">has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt</detail>
+    <detail name="Suffrage">18 years of age; universal</detail>
+    <list-detail name="International organization participation">
+      <list-item>ADB</list-item>
+      <list-item>CICA</list-item>
+      <list-item>CIS</list-item>
+      <list-item>EAPC</list-item>
+      <list-item>EBRD</list-item>
+      <list-item>ECO</list-item>
+      <list-item>FAO</list-item>
+      <list-item>IAEA</list-item>
+      <list-item>IBRD</list-item>
+      <list-item>ICAO</list-item>
+      <list-item>ICC (national committees)</list-item>
+      <list-item>ICCt</list-item>
+      <list-item>ICRM</list-item>
+      <list-item>IDA</list-item>
+      <list-item>IDB</list-item>
+      <list-item>IFAD</list-item>
+      <list-item>IFC</list-item>
+      <list-item>IFRCS</list-item>
+      <list-item>ILO</list-item>
+      <list-item>IMF</list-item>
+      <list-item>Interpol</list-item>
+      <list-item>IOC</list-item>
+      <list-item>ISO</list-item>
+      <list-item>ITSO</list-item>
+      <list-item>ITU</list-item>
+      <list-item>MIGA</list-item>
+      <list-item>NAM</list-item>
+      <list-item>OIC</list-item>
+      <list-item>OPCW</list-item>
+      <list-item>OSCE</list-item>
+      <list-item>PFP</list-item>
+      <list-item>SCO</list-item>
+      <list-item>UN</list-item>
+      <list-item>UN Security Council (temporary)</list-item>
+      <list-item>UNCTAD</list-item>
+      <list-item>UNESCO</list-item>
+      <list-item>UNIDO</list-item>
+      <list-item>UNWTO</list-item>
+      <list-item>UPU</list-item>
+      <list-item>WCO</list-item>
+      <list-item>WFTU (NGOs)</list-item>
+      <list-item>WHO</list-item>
+      <list-item>WIPO</list-item>
+      <list-item>WMO</list-item>
+      <list-item>WTO (observer)</list-item>
+    </list-detail>
+    <detail name="Flag description">three equal horizontal bands of blue (top), white, and green separated by red fimbriations with a white crescent moon (closed side to the hoist) and 12 white stars shifted to the hoist on the top band; blue is the color of the Turkic peoples and of the sky, white signifies peace and the striving for purity in thoughts and deeds, while green represents nature and is the color of Islam; the red stripes are the vital force of all living organisms that links good and pure ideas with the eternal sky and with deeds on earth; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar</detail>
+    <list-detail name="National symbol(s)">
+      <list-item>khumo (mythical bird)</list-item>
+      <list-item>national colors: blue, white, red, green</list-item>
+    </list-detail>
+    <nested-detail name="Country name">
+      <detail name="conventional long form">Republic of Uzbekistan</detail>
+      <detail name="conventional short form">Uzbekistan</detail>
+      <detail name="local long form">O'zbekiston Respublikasi</detail>
+      <detail name="local short form">O'zbekiston</detail>
+      <detail name="former">Uzbek Soviet Socialist Republic</detail>
+      <detail name="etymology">a combination of the Turkic words "uz" (self) and "bek" (master) with the Persian suffix "-stan" (country) to give the meaning "Land of the Free"</detail>
+    </nested-detail>
+    <nested-detail name="Capital">
+      <detail name="name">Tashkent (Toshkent)</detail>
+      <detail name="geographic coordinates">41 19 N, 69 15 E</detail>
+      <detail name="time difference">UTC+5 (10 hours ahead of Washington, DC, during Standard Time)</detail>
+    </nested-detail>
+    <nested-detail name="Constitution">
+      <detail name="history">several previous; latest adopted 8 December 1992</detail>
+      <detail name="amendments">proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum; amended several times, last in 2014</detail>
+    </nested-detail>
+    <nested-detail name="Citizenship">
+      <detail name="citizenship by birth">no</detail>
+      <detail name="citizenship by descent only">at least one parent must be a citizen of Uzbekistan</detail>
+      <detail name="dual citizenship recognized">no</detail>
+      <detail name="residency requirement for naturalization">5 years</detail>
+    </nested-detail>
+    <nested-detail name="Executive branch">
+      <detail name="chief of state">President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016)</detail>
+      <detail name="head of government">Prime Minister Abdulla ARIPOV (since 14 December 2016); First Deputy Prime Minister Achilbay RAMATOV (since 15 December 2016)</detail>
+      <detail name="cabinet">Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)</detail>
+      <detail name="elections/appointments">president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term; previously a 5-year term, extended by a 2002 constitutional amendment to 7 years, and reverted to 5 years in 2011); election last held on 4 December 2016 ; prime minister nominated by majority party in legislature since 2011, but appointed along with the ministers and deputy ministers by the president</detail>
+      <detail name="election results">Shavkat MIRZIYOYEV elected president; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Khatamjon KETMONOV (NDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURADOV (Milliy Tiklanish/National Revival) 2.4%, other 1.8%</detail>
+    </nested-detail>
+    <nested-detail name="Legislative branch">
+      <detail name="description">bicameral Supreme Assembly or Oliy Majlis consists of the Senate (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms) and the Legislative Chamber or Qonunchilik Palatasi (150 seats; 135 members directly elected in single-seat constituencies by absolute majority vote with a second round, if needed, and 15 indirectly elected by the Ecological Movement of Uzbekistan; members serve 5-year terms)</detail>
+      <detail name="note">all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV</detail>
+      <detail name="elections">last held on 21 December 2014 and 4 January 2015</detail>
+      <detail name="election results">Senate - percent of vote by party - NA; seats by party - NA; Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 52, National Revival Democratic Party 36, NDP 27, Adolat 20, Ecological Movement 15</detail>
+    </nested-detail>
+    <nested-detail name="Judicial branch">
+      <detail name="highest court(s)">Supreme Court (consists of 67 judges organized into administrative, civil, criminal, economic, and military sections); Constitutional Court (consists of 7 judges)</detail>
+      <detail name="judge selection and term of office">judges of the highest courts nominated by the president and confirmed by the Oliy Majlis; judges appointed for initial 5-year term, subsequent 10-year term, and lifetime term subject to reappointment</detail>
+      <detail name="subordinate courts">regional, district, city, and town courts; economic courts</detail>
+    </nested-detail>
+    <nested-detail name="National anthem">
+      <detail name="name">"O'zbekiston Respublikasining Davlat Madhiyasi" (National Anthem of the Republic of Uzbekistan)</detail>
+      <detail name="lyrics/music">Abdulla ARIPOV/Mutal BURHANOV</detail>
+      <detail name="note">adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of the anthem from its time as a Soviet Republic but adopted new lyrics</detail>
+    </nested-detail>
+    <list-detail name="Political parties and leaders">
+      <list-item>Ecological Movement of Uzbekistan (O'zbekiston Ekologik Harakati) [Boriy ALIKHANOV]</list-item>
+      <list-item>Justice (Adolat) Social Democratic Party of Uzbekistan [Narimon UMAROV]</list-item>
+      <list-item>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Shavkat MIRZIYOYEV]</list-item>
+      <list-item>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Sarvar OTAMURATOV]</list-item>
+      <list-item>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or NDP [Hotamjon KETMONOV] (formerly Communist Party)</list-item>
+    </list-detail>
+    <list-detail name="Political pressure groups and leaders">
+      <list-item>no significant opposition political parties or pressure groups in Uzbekistan</list-item>
+    </list-detail>
+    <nested-detail name="Diplomatic representation in the US">
+      <detail name="chief of mission">Ambassador Javlon VAHOBOV (since 1 December 2017)</detail>
+      <detail name="chancery">1746 Massachusetts Avenue NW, Washington, DC 20036</detail>
+      <detail name="telephone">[1] (202) 887-5300</detail>
+      <detail name="FAX">[1] (202) 293-6804</detail>
+      <detail name="consulate(s) general">New York</detail>
+    </nested-detail>
+    <nested-detail name="Diplomatic representation from the US">
+      <detail name="chief of mission">Ambassador Pamela L. SPRATLEN (since 27 January 2015)</detail>
+      <detail name="embassy">3 Moyqo'rq'on, 5th Block, Yunusobod District, Tashkent 100093</detail>
+      <detail name="mailing address">use embassy street address</detail>
+      <detail name="telephone">[998] (71) 120-5450</detail>
+      <detail name="FAX">[998] (71) 120-6335</detail>
+    </nested-detail>
+  </section>
+  <section name="Military and security" id="military">
+    <list-detail name="Military service age and obligation">
+      <list-item>18 years of age for compulsory military service</list-item>
+      <list-item>1-month or 1-year conscript service obligation for males</list-item>
+      <list-item>moving toward a professional military, but conscription in some form will continue</list-item>
+      <list-item>the military cannot accommodate everyone who wishes to enlist, and competition for entrance into the military is similar to the competition for admission to universities</list-item>
+      <list-item>note - widely considered to have one of the strongest militaries in Central Asia, although it is untested</list-item>
+    </list-detail>
+    <detail name="Military branches">Armed Forces: Army, Air and Air Defense Forces, National Guard</detail>
+  </section>
+  <section name="People and society" id="people">
+    <detail name="Population">29,748,859</detail>
+    <list-detail name="Ethnic groups">
+      <list-item>Uzbek 80%</list-item>
+      <list-item>Russian 5.5%</list-item>
+      <list-item>Tajik 5%</list-item>
+      <list-item>Kazakh 3%</list-item>
+      <list-item>Karakalpak 2.5%</list-item>
+      <list-item>Tatar 1.5%</list-item>
+      <list-item>other 2.5%</list-item>
+    </list-detail>
+    <list-detail name="Languages">
+      <list-item>Uzbek (official) 74.3%</list-item>
+      <list-item>Russian 14.2%</list-item>
+      <list-item>Tajik 4.4%</list-item>
+      <list-item>other 7.1%</list-item>
+    </list-detail>
+    <detail name="Religions">Muslim 88% (mostly Sunni), Eastern Orthodox 9%, other 3%</detail>
+    <detail name="Population growth rate">0.93%</detail>
+    <detail name="Birth rate">16.8 births/1,000 population</detail>
+    <detail name="Death rate">5.3 deaths/1,000 population</detail>
+    <detail name="Net migration rate">-2.2 migrant(s)/1,000 population</detail>
+    <detail name="Population distribution">most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated</detail>
+    <detail name="Mother's mean age at first birth">23.4 years</detail>
+    <detail name="Total fertility rate">1.76 children born/woman</detail>
+    <detail name="Health expenditures">5.8% of GDP</detail>
+    <detail name="Physicians density">2.45 physicians/1,000 population</detail>
+    <detail name="Hospital bed density">4 beds/1,000 population</detail>
+    <detail name="Total fertility rate">1.76 children born/woman</detail>
+    <list-detail name="Urban areas">
+      <list-item>TASHKENT (capital) 2.251 million</list-item>
+    </list-detail>
+    <detail name="HIV/AIDS - adult prevalence rate">NA</detail>
+    <detail name="HIV/AIDS - people living with HIV/AIDS">NA</detail>
+    <detail name="HIV/AIDS - deaths">NA</detail>
+    <detail name="Obesity - adult prevalence rate">16.6%</detail>
+    <detail name="Education expenditures">NA</detail>
+    <detail name="Nationality">Uzbekistani</detail>
+    <nested-detail name="Dependency ratios">
+      <detail name="total dependency ratio">47.7</detail>
+      <detail name="youth dependency ratio">41.4</detail>
+      <detail name="elderly dependency ratio">6.2</detail>
+    </nested-detail>
+    <nested-detail name="Median age">
+      <detail name="total">28.6 years</detail>
+      <detail name="male">28 years</detail>
+      <detail name="female">29.2 years</detail>
+    </nested-detail>
+    <nested-detail name="Urbanization">
+      <detail name="urban population">36.6% of total population</detail>
+      <detail name="rate of urbanization">1.62% annual rate of change (2015-20 est.)</detail>
+    </nested-detail>
+    <nested-detail name="Infant mortality rate">
+      <detail name="total">18 deaths/1,000 live births</detail>
+      <detail name="male">21.4 deaths/1,000 live births</detail>
+      <detail name="female">14.4 deaths/1,000 live births</detail>
+    </nested-detail>
+    <nested-detail name="Life expectancy at birth">
+      <detail name="total population">74 years</detail>
+      <detail name="male">71 years</detail>
+      <detail name="female">77.3 years</detail>
+    </nested-detail>
+    <nested-detail name="Literacy">
+      <detail name="definition">age 15 and over can read and write</detail>
+      <detail name="total population">100%</detail>
+      <detail name="male">100%</detail>
+      <detail name="female">100%</detail>
+    </nested-detail>
+    <nested-detail name="School life expectancy (primary to tertiary education)">
+      <detail name="total">12 years</detail>
+      <detail name="male">13 years</detail>
+      <detail name="female">12 years</detail>
+    </nested-detail>
+    <histogram name="Age structure" unit="%">
+      <entry from-age="0" to-age="14">23.88</entry>
+      <entry from-age="15" to-age="24">18.52</entry>
+      <entry from-age="25" to-age="54">44.49</entry>
+      <entry from-age="55" to-age="64">7.85</entry>
+      <entry from-age="65">5.25</entry>
+    </histogram>
+    <histogram description="male to female" name="Sex ratio">
+      <entry from-age="0" to-age="0">1.05</entry>
+      <entry from-age="0" to-age="14">1.05</entry>
+      <entry from-age="15" to-age="24">1.03</entry>
+      <entry from-age="25" to-age="54">0.99</entry>
+      <entry from-age="55" to-age="64">0.9</entry>
+      <entry from-age="65">0.74</entry>
+      <entry>0.99</entry>
+    </histogram>
+  </section>
+  <section name="Transnational issues" id="issues">
+    <list-detail name="Disputes - international">
+      <list-item>prolonged drought and cotton monoculture in Uzbekistan and Turkmenistan created water-sharing difficulties for Amu Darya river states</list-item>
+      <list-item>field demarcation of the boundaries with Kazakhstan commenced in 2004</list-item>
+      <list-item>border delimitation of 130 km of border with Kyrgyzstan is hampered by serious disputes around enclaves and other areas</list-item>
+    </list-detail>
+    <list-detail name="Illicit drugs">
+      <list-item>transit country for Afghan narcotics bound for Russian and, to a lesser extent, Western European markets</list-item>
+      <list-item>limited illicit cultivation of cannabis and small amounts of opium poppy for domestic consumption</list-item>
+      <list-item>poppy cultivation almost wiped out by government crop eradication program</list-item>
+      <list-item>transit point for heroin precursor chemicals bound for Afghanistan</list-item>
+    </list-detail>
+    <nested-detail name="Refugees and internally displaced persons">
+      <detail name="stateless persons">86,524</detail>
+    </nested-detail>
+  </section>
+  <section name="Transportation" id="transport">
+    <detail name="Civil aircraft registration country code prefix">UK</detail>
+    <detail name="Airports">53</detail>
+    <list-detail name="Pipelines">
+      <list-item>gas 13,700 km</list-item>
+      <list-item>oil 944 km</list-item>
+    </list-detail>
+    <detail name="Waterways">1,100 km</detail>
+    <nested-detail name="National air transport system">
+      <detail name="number of registered air carriers">2</detail>
+      <detail name="inventory of registered aircraft operated by air carriers">29</detail>
+      <detail name="annual passenger traffic on registered air carriers">2,486,673</detail>
+      <detail name="annual freight traffic on registered air carriers">114,334,520 mt-km</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with paved runways">
+      <detail name="total">33</detail>
+      <detail name="over 3,047 m">6</detail>
+      <detail name="2,438 to 3,047 m">13</detail>
+      <detail name="1,524 to 2,437 m">6</detail>
+      <detail name="914 to 1,523 m">4</detail>
+      <detail name="under 914 m">4</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with unpaved runways">
+      <detail name="total">20</detail>
+      <detail name="2,438 to 3,047 m">2</detail>
+      <detail name="under 914 m">18</detail>
+    </nested-detail>
+    <nested-detail name="Railways">
+      <detail name="total">4,642 km</detail>
+      <detail name="broad gauge">4,642 km 1.520-m gauge (1,684 km electrified)</detail>
+    </nested-detail>
+    <nested-detail name="Roadways">
+      <detail name="total">86,496 km</detail>
+      <detail name="paved">75,511 km</detail>
+      <detail name="unpaved">10,985 km</detail>
+    </nested-detail>
+    <nested-detail name="Ports and terminals">
+      <detail name="river port(s)">Termiz (Amu Darya)</detail>
+    </nested-detail>
+  </section>
+</country>
+
+    
+<country generated-from="https://www.cia.gov/library/publications/the-world-factbook/geos/so.html" id="somalia">
+  <introduction>
+    <name>Somalia</name>
+    <background>
+      <paragraph>Britain withdrew from British Somaliland in 1960 to allow its protectorate to join with Italian Somaliland and form the new nation of Somalia. In 1969, a coup headed by Mohamed SIAD Barre ushered in an authoritarian socialist rule characterized by the persecution, jailing, and torture of political opponents and dissidents. After the regime's collapse early in 1991, Somalia descended into turmoil, factional fighting, and anarchy. In May 1991, northern clans declared an independent Republic of Somaliland that now includes the administrative regions of Awdal, Woqooyi Galbeed, Togdheer, Sanaag, and Sool. Although not recognized by any government, this entity has maintained a stable existence and continues efforts to establish a constitutional democracy, including holding municipal, parliamentary, and presidential elections. The regions of Bari, Nugaal, and northern Mudug comprise a neighboring semi-autonomous state of Puntland, which has been self-governing since 1998 but does not aim at independence; it has also made strides toward reconstructing a legitimate, representative government but has suffered some civil strife. Puntland disputes its border with Somaliland as it also claims the regions of Sool and Sanaag, and portions of Togdheer. Beginning in 1993, a two-year UN humanitarian effort (primarily in south-central Somalia) was able to alleviate famine conditions, but when the UN withdrew in 1995, having suffered significant casualties, order still had not been restored.</paragraph>
+      <paragraph>In 2000, the Somalia National Peace Conference (SNPC) held in Djibouti resulted in the formation of an interim government, known as the Transitional National Government (TNG). When the TNG failed to establish adequate security or governing institutions, the Government of Kenya, under the auspices of the Intergovernmental Authority on Development (IGAD), led a subsequent peace process that concluded in October 2004 with the election of Abdullahi YUSUF Ahmed as President of a second interim government, known as the Transitional Federal Government (TFG) of the Somali Republic. The TFG included a 275-member parliamentary body, known as the Transitional Federal Parliament (TFP). President YUSUF resigned late in 2008 while UN-sponsored talks between the TFG and the opposition Alliance for the Re-Liberation of Somalia (ARS) were underway in Djibouti. In January 2009, following the creation of a TFG-ARS unity government, Ethiopian military forces, which had entered Somalia in December 2006 to support the TFG in the face of advances by the opposition Islamic Courts Union (ICU), withdrew from the country. The TFP was doubled in size to 550 seats with the addition of 200 ARS and 75 civil society members of parliament. The expanded parliament elected Sheikh SHARIF Sheikh Ahmed, the former ICU and ARS chairman as president in January 2009. The creation of the TFG was based on the Transitional Federal Charter (TFC), which outlined a five-year mandate leading to the establishment of a new Somali constitution and a transition to a representative government following national elections. In 2009, the TFP amended the TFC to extend TFG's mandate until 2011 and in 2011 Somali principals agreed to institute political transition by August 2012. The transition process ended in September 2012 when clan elders replaced the TFP by appointing 275 members to a new parliament who subsequently elected a new president.</paragraph>
+    </background>
+  </introduction>
+  <pictures>
+    <picture description="Flag">https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/so-lgflag.gif</picture>
+    <picture description="Location">https://www.cia.gov/library/publications/the-world-factbook/graphics/locator/afr/so_large_locator.gif</picture>
+    <picture description="Map">https://www.cia.gov/library/publications/resources/the-world-factbook/graphics/maps/so-map.gif</picture>
+    <photos>
+      <photo description="The orange and tan colors of this high-oblique photograph of the Horn of Africa indicate an arid-to-semiarid landscape in the northern half of the east African country of Somalia. Except for the darker areas where thicker vegetation can be found (usually in elevated areas), most of the vegetation in this part of Somalia is shrub brush and grasslands. The southern extent of the Saudi Arabian Peninsula is visible north across the Gulf of Aden. Image courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/so/images/SO_001.jpg</photo>
+    </photos>
+  </pictures>
+  <section name="Communications" id="communication">
+    <detail name="Broadcast media">2 private TV stations rebroadcast Al-Jazeera and CNN; Somaliland has 1 government-operated TV station and Puntland has 1 private TV station; the transitional government operates Radio Mogadishu; 1 SW and roughly 10 private FM radio stations broadcast in Mogadishu; several radio stations operate in central and southern regions; Somaliland has 1 government-operated radio station; Puntland has roughly a half-dozen private radio stations; transmissions of at least 2 international broadcasters are available</detail>
+    <detail name="Internet country code">.so</detail>
+    <nested-detail name="Telephones - fixed lines">
+      <detail name="total subscriptions">48,000</detail>
+      <detail name="subscriptions per 100 inhabitants">less than 1</detail>
+    </nested-detail>
+    <nested-detail name="Telephones - mobile cellular">
+      <detail name="total">6,653,040</detail>
+      <detail name="subscriptions per 100 inhabitants">62</detail>
+    </nested-detail>
+    <nested-detail name="Telephone system">
+      <detail name="general assessment">the public telecom system was almost completely destroyed or dismantled during the civil war; private companies offer limited local fixed-line service, and private wireless companies offer service in most major cities, while charging some of the lowest rates on the continent</detail>
+      <detail name="domestic">seven networks compete for customers in the mobile sector; some of these mobile-service providers offer fixed-line and Internet services</detail>
+      <detail name="international">country code - 252; Mogadishu is a landing point for the EASSy fiber-optic submarine cable system linking East Africa with Europe and North America; this connection ended the country's expensive satellite-dependent Internet access</detail>
+    </nested-detail>
+    <nested-detail name="Internet users">
+      <detail name="total">203,366</detail>
+      <detail name="percent of population">1.9%</detail>
+    </nested-detail>
+  </section>
+  <section name="Economy" id="economy">
+    <detail name="Overview">Despite the lack of effective national governance, Somalia maintains an informal economy largely based on livestock, remittance/money transfer companies, and telecommunications. Somalia's government lacks the ability to collect domestic revenue and external debt – mostly in arrears – was estimated at about 77% of GDP in 2017.</detail>
+    <detail name="GDP (purchasing power parity)">$17.47 billion</detail>
+    <detail name="GDP (official exchange rate)">$6.522 billion</detail>
+    <detail name="GDP per capita">$NA</detail>
+    <list-detail name="Agricultural products">
+      <list-item>bananas, sorghum, corn, coconuts, rice, sugarcane, mangoes, sesame seeds, beans</list-item>
+      <list-item>cattle, sheep, goats</list-item>
+      <list-item>fish</list-item>
+    </list-detail>
+    <detail name="Industries">light industries, including sugar refining, textiles, wireless communication</detail>
+    <detail name="Industrial production growth rate">3.5%</detail>
+    <detail name="Labor force">4.154 million</detail>
+    <detail name="Unemployment rate">NA%</detail>
+    <detail name="Population below poverty line">NA%</detail>
+    <detail name="Taxes and other revenues">2.2% of GDP</detail>
+    <detail name="Budget surplus (+) or deficit (-)">-0.1% of GDP</detail>
+    <detail name="Public debt">76.7% of GDP</detail>
+    <detail name="Fiscal year">NA</detail>
+    <detail name="Inflation rate (consumer prices)">1.5%</detail>
+    <detail name="Central bank discount rate">NA%</detail>
+    <detail name="Commercial bank prime lending rate">NA%</detail>
+    <detail name="Current account balance">$-722 million</detail>
+    <detail name="Exports">$819 million</detail>
+    <detail name="Export commodities">livestock, bananas, hides, fish, charcoal, scrap metal</detail>
+    <detail name="Export partners">Saudi Arabia 37.2%, Oman 22.7%, UAE 16.3%</detail>
+    <detail name="Imports">$3.482 billion</detail>
+    <detail name="Import commodities">manufactures, petroleum products, foodstuffs, construction materials, qat</detail>
+    <detail name="Import partners">India 26.3%, China 20.8%, Oman 9.1%, Kenya 8.3%, Turkey 6%, Malaysia 4.3%, Brazil 4.2%</detail>
+    <detail name="Reserves of foreign exchange and gold">$30.45 million</detail>
+    <detail name="Debt - external">$5.3 billion</detail>
+    <detail name="Stock of direct foreign investment - at home">$NA</detail>
+    <nested-detail name="GDP - composition, by end use">
+      <detail name="household consumption">72.1%</detail>
+      <detail name="government consumption">8.7%</detail>
+      <detail name="investment in fixed capital">19.8%</detail>
+      <detail name="investment in inventories">0.8%</detail>
+      <detail name="exports of goods and services">0.3%</detail>
+      <detail name="imports of goods and services">-1.7%</detail>
+    </nested-detail>
+    <nested-detail name="Labor force - by occupation">
+      <detail name="agriculture">71%</detail>
+      <detail name="industry and services">29%</detail>
+    </nested-detail>
+    <nested-detail name="Household income or consumption by percentage share">
+      <detail name="lowest 10%">NA%</detail>
+      <detail name="highest 10%">NA%</detail>
+    </nested-detail>
+    <nested-detail name="Budget">
+      <detail name="revenues">$145.3 million</detail>
+      <detail name="expenditures">$151.1 million</detail>
+    </nested-detail>
+  </section>
+  <section name="Energy" id="energy">
+    <detail name="Electricity - production">344 million kWh</detail>
+    <detail name="Electricity - consumption">319.9 million kWh</detail>
+    <detail name="Electricity - exports">0 kWh</detail>
+    <detail name="Electricity - imports">0 kWh</detail>
+    <detail name="Electricity - installed generating capacity">81,000 kW</detail>
+    <detail name="Electricity - from fossil fuels">98.8% of total installed capacity</detail>
+    <detail name="Electricity - from nuclear fuels">0% of total installed capacity</detail>
+    <detail name="Electricity - from hydroelectric plants">0% of total installed capacity</detail>
+    <detail name="Electricity - from other renewable sources">1.2% of total installed capacity</detail>
+    <detail name="Crude oil - production">0 bbl/day</detail>
+    <detail name="Crude oil - exports">0 bbl/day</detail>
+    <detail name="Crude oil - imports">0 bbl/day</detail>
+    <detail name="Crude oil - proved reserves">0 bbl</detail>
+    <detail name="Refined petroleum products - production">0 bbl/day</detail>
+    <detail name="Refined petroleum products - consumption">5,700 bbl/day</detail>
+    <detail name="Refined petroleum products - exports">0 bbl/day</detail>
+    <detail name="Refined petroleum products - imports">5,679 bbl/day</detail>
+    <detail name="Natural gas - production">0 cu m</detail>
+    <detail name="Natural gas - consumption">0 cu m</detail>
+    <detail name="Natural gas - exports">0 cu m</detail>
+    <detail name="Natural gas - imports">0 cu m</detail>
+    <detail name="Natural gas - proved reserves">5.663 billion cu m</detail>
+    <detail name="Carbon dioxide emissions from consumption of energy">900,000 Mt</detail>
+    <nested-detail name="Electricity access">
+      <detail name="population without electricity">8,900,000</detail>
+      <detail name="electrification - total population">15%</detail>
+      <detail name="electrification - urban areas">33%</detail>
+      <detail name="electrification - rural areas">4%</detail>
+    </nested-detail>
+  </section>
+  <section name="Geography" id="geography">
+    <detail name="Location">Eastern Africa, bordering the Gulf of Aden and the Indian Ocean, east of Ethiopia</detail>
+    <detail name="Coordinates">10 00 N, 49 00 E</detail>
+    <detail name="Coastline">3,025 km</detail>
+    <detail name="Climate">principally desert; northeast monsoon (December to February), moderate temperatures in north and hot in south; southwest monsoon (May to October), torrid in the north and hot in the south, irregular rainfall, hot and humid periods (tangambili) between monsoons</detail>
+    <detail name="Terrain">mostly flat to undulating plateau rising to hills in north</detail>
+    <list-detail name="Natural resources">
+      <list-item>uranium and largely unexploited reserves of iron ore</list-item>
+      <list-item>tin</list-item>
+      <list-item>gypsum</list-item>
+      <list-item>bauxite</list-item>
+      <list-item>copper</list-item>
+      <list-item>salt</list-item>
+      <list-item>natural gas</list-item>
+      <list-item>likely oil reserves</list-item>
+    </list-detail>
+    <detail name="Irrigated land">2,000 sq km</detail>
+    <list-detail name="Natural hazards">
+      <list-item>recurring droughts</list-item>
+      <list-item>frequent dust storms over eastern plains in summer</list-item>
+      <list-item>floods during rainy season</list-item>
+    </list-detail>
+    <list-detail name="Current environment issues">
+      <list-item>famine</list-item>
+      <list-item>use of contaminated water contributes to human health problems</list-item>
+      <list-item>deforestation</list-item>
+      <list-item>overgrazing</list-item>
+      <list-item>soil erosion</list-item>
+      <list-item>desertification</list-item>
+    </list-detail>
+    <detail name="Population - distribution">distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa</detail>
+    <nested-detail name="Area">
+      <detail name="total">637,657 sq km</detail>
+      <detail name="land">627,337 sq km</detail>
+      <detail name="water">10,320 sq km</detail>
+    </nested-detail>
+    <nested-detail name="Maritime claims">
+      <detail name="territorial sea">200 nm</detail>
+    </nested-detail>
+    <nested-detail name="Land use">
+      <detail name="agricultural land">70.3%</detail>
+      <detail name="forest">10.6%</detail>
+      <detail name="other">19.1%</detail>
+    </nested-detail>
+    <nested-detail name="Environment international agreements">
+      <detail name="party to">Biodiversity, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection</detail>
+      <detail name="signed, but not ratified">none of the selected agreements</detail>
+    </nested-detail>
+    <nested-detail name="Elevation">
+      <detail name="mean elevation">410 m</detail>
+      <detail name="elevation extremes">lowest point: Indian Ocean 0 m</detail>
+    </nested-detail>
+    <nested-detail name="Land boundaries">
+      <detail name="total">2,385 km</detail>
+      <list-detail name="border countries (3)">
+        <list-item>Djibouti 61 km</list-item>
+        <list-item>Ethiopia 1640 km</list-item>
+        <list-item>Kenya 684 km</list-item>
+      </list-detail>
+    </nested-detail>
+  </section>
+  <section name="Government" id="government">
+    <detail name="Government type">federal parliamentary republic</detail>
+    <list-detail name="Administrative divisions">
+      <list-item>18 regions (plural - NA, singular - gobolka)</list-item>
+      <list-item>Awdal, Bakool, Banaadir, Bari, Bay, Galguduud, Gedo, Hiiraan, Jubbada Dhexe (Middle Jubba), Jubbada Hoose (Lower Jubba), Mudug, Nugaal, Sanaag, Shabeellaha Dhexe (Middle Shabeelle), Shabeellaha Hoose (Lower Shabeelle), Sool, Togdheer, Woqooyi Galbeed</list-item>
+    </list-detail>
+    <list-detail name="Independence">
+      <list-item>1 July 1960 (from a merger of British Somaliland that became independent from the UK on 26 June 1960 and Italian Somaliland that became independent from the Italian-administered UN trusteeship on 1 July 1960 to form the Somali Republic)</list-item>
+    </list-detail>
+    <detail name="National holiday">Foundation of the Somali Republic, 1 July ; note - 26 June in Somaliland</detail>
+    <detail name="Legal system">mixed legal system of civil law, Islamic law, and customary law (referred to as Xeer)</detail>
+    <detail name="International law organization participation">accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt</detail>
+    <detail name="Suffrage">18 years of age; universal</detail>
+    <list-detail name="International organization participation">
+      <list-item>ACP</list-item>
+      <list-item>AfDB</list-item>
+      <list-item>AFESD</list-item>
+      <list-item>AMF</list-item>
+      <list-item>AU</list-item>
+      <list-item>CAEU (candidate)</list-item>
+      <list-item>FAO</list-item>
+      <list-item>G-77</list-item>
+      <list-item>IBRD</list-item>
+      <list-item>ICAO</list-item>
+      <list-item>ICRM</list-item>
+      <list-item>IDA</list-item>
+      <list-item>IDB</list-item>
+      <list-item>IFAD</list-item>
+      <list-item>IFC</list-item>
+      <list-item>IFRCS</list-item>
+      <list-item>IGAD</list-item>
+      <list-item>ILO</list-item>
+      <list-item>IMF</list-item>
+      <list-item>IMO</list-item>
+      <list-item>Interpol</list-item>
+      <list-item>IOC</list-item>
+      <list-item>IOM</list-item>
+      <list-item>IPU</list-item>
+      <list-item>ITSO</list-item>
+      <list-item>ITU</list-item>
+      <list-item>LAS</list-item>
+      <list-item>NAM</list-item>
+      <list-item>OIC</list-item>
+      <list-item>OPCW</list-item>
+      <list-item>OPCW (signatory)</list-item>
+      <list-item>UN</list-item>
+      <list-item>UNCTAD</list-item>
+      <list-item>UNESCO</list-item>
+      <list-item>UNHCR</list-item>
+      <list-item>UNIDO</list-item>
+      <list-item>UPU</list-item>
+      <list-item>WFTU (NGOs)</list-item>
+      <list-item>WHO</list-item>
+      <list-item>WIPO</list-item>
+      <list-item>WMO</list-item>
+    </list-detail>
+    <detail name="Flag description">light blue with a large white five-pointed star in the center; the blue field was originally influenced by the flag of the UN, but today is said to denote the sky and the neighboring Indian Ocean; the five points of the star represent the five regions in the horn of Africa that are inhabited by Somali people: the former British Somaliland and Italian Somaliland (which together make up Somalia), Djibouti, Ogaden (Ethiopia), and the North East Province (Kenya)</detail>
+    <list-detail name="National symbol(s)">
+      <list-item>leopard</list-item>
+      <list-item>national colors: blue, white</list-item>
+    </list-detail>
+    <nested-detail name="Country name">
+      <detail name="conventional long form">Federal Republic of Somalia</detail>
+      <detail name="conventional short form">Somalia</detail>
+      <detail name="local long form">Jamhuuriyadda Federaalkaa Soomaaliya</detail>
+      <detail name="local short form">Soomaaliya</detail>
+      <detail name="former">Somali Republic, Somali Democratic Republic</detail>
+      <detail name="etymology">"Land of the Somali" (ethnic group)</detail>
+    </nested-detail>
+    <nested-detail name="Capital">
+      <detail name="name">Mogadishu</detail>
+      <detail name="geographic coordinates">2 04 N, 45 20 E</detail>
+      <detail name="time difference">UTC+3 (8 hours ahead of Washington, DC, during Standard Time)</detail>
+    </nested-detail>
+    <nested-detail name="Constitution">
+      <detail name="history">previous 1961, 1979; latest drafted 12 June 2012, approved 1 August 2012 (provisional)</detail>
+      <detail name="amendments">proposed by the federal government, by members of the state governments, the Federal Parliament, or by public petition; proposals require review by a joint committee of Parliament with inclusion of public comments and state legislatures’ comments; passage requires at least two-thirds majority vote in both houses of Parliament and approval by a majority of votes cast in a referendum; constitutional clauses on Islamic principles, the federal system, human rights and freedoms, powers and authorities of the government branches, and inclusion of women in national institutions cannot be amended</detail>
+    </nested-detail>
+    <nested-detail name="Citizenship">
+      <detail name="citizenship by birth">no</detail>
+      <detail name="citizenship by descent only">the father must be a citizen of Somalia</detail>
+      <detail name="dual citizenship recognized">no</detail>
+      <detail name="residency requirement for naturalization">7 years</detail>
+    </nested-detail>
+    <nested-detail name="Executive branch">
+      <detail name="chief of state">President Mohamed ABDULLAHI Mohamed "Farmaajo" (since 8 February 2017)</detail>
+      <detail name="head of government">Prime Minister Hassan Ali KHAYRE (since 1 March 2017)</detail>
+      <detail name="cabinet">Cabinet appointed by the prime minister, approved by the House of the People</detail>
+      <detail name="elections/appointments">president indirectly elected by the Federal Parliament by two-thirds majority vote in 2 rounds if needed for a single 4-year term; election last held on 8 February 2017 (previously scheduled for 30 September 2016 but postponed repeatedly); prime minister appointed by the president, approved by the House of the People</detail>
+      <detail name="election results">Mohamed ABDULLAHI Mohamed "Farmaajo" elected president; Federal Parliament second round vote - Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 184, HASSAN SHEIKH Mohamud (PDP) 97, Sheikh SHARIF Sheikh Ahmed (ARS) 46</detail>
+    </nested-detail>
+    <nested-detail name="Legislative branch">
+      <detail name="description">bicameral Federal Parliament to consist of an Upper House (54 seats; senators elected by state assemblies to serve 4-year terms) and the House of the People (275 seats; members elected by regional delegates to serve 4-year terms)</detail>
+      <detail name="note">the inaugural House of the People was appointed in September 2012 by clan elders; in elections in 2016 and 2017, the Federal Parliament became bicameral with elections scheduled for 10 October 2016 for the Upper House and 23 October to 10 November 2016 for the House of the People; while the elections were delayed, they were eventually held in most regions despite voting irregularities; on 27 December 2016, 41 Upper House senators and 242 House of the People members were sworn in</detail>
+    </nested-detail>
+    <nested-detail name="Judicial branch">
+      <detail name="highest court(s)">the provisional constitution stipulates the establishment of the Constitutional Court (consists of 5 judges including the chief judge and deputy chief judge); note - under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and an Appeal Court were established; yet most regions have reverted to local forms of conflict resolution, either secular, traditional Somali customary law, or sharia Islamic law</detail>
+      <detail name="judge selection and term of office">judges appointed by the president upon proposal of the Judicial Service Commission, a 9-member judicial and administrative body; judge tenure NA</detail>
+      <detail name="subordinate courts">federal courts; federal member state-level courts; military courts; sharia courts</detail>
+    </nested-detail>
+    <nested-detail name="National anthem">
+      <detail name="name">"Qolobaa Calankeed" (Every Nation Has its own Flag)</detail>
+      <detail name="lyrics/music">lyrics/music: Abdullahi QARSHE</detail>
+      <detail name="note">adopted 2012; written in 1959</detail>
+    </nested-detail>
+    <list-detail name="Political parties and leaders">
+      <list-item>Cosmopolitan Democratic Party [Yarow Sharef ADEN]</list-item>
+      <list-item>Daljir Party or DP [Hassan MOALIM]</list-item>
+      <list-item>Democratic Green Party of Somalia or DGPS [Abdullahi Y. MAHAMOUD]</list-item>
+      <list-item>Democratic Party of Somalia or DPS [Maslah Mohamed SIAD]</list-item>
+      <list-item>Green Leaf for Democracy or GLED</list-item>
+      <list-item>Hiil Qaran</list-item>
+      <list-item>Justice and Communist Party [Mohamed NUR]</list-item>
+      <list-item>Justice and Development of Democracy and Self-Respectfulness Party or CAHDI [Abdirahman Abdigani IBRAHIM Bile]</list-item>
+      <list-item>Liberal Party of Somalia</list-item>
+      <list-item>National Unity Party (Xisbiga MIdnimo-Quaran) [Abdurahman BAADIYOW]</list-item>
+      <list-item>Peace and Development Party or PDP</list-item>
+      <list-item>Somali National Party or SNP [Mohammed Ameen Saeed AHMED]</list-item>
+      <list-item>Somali People's Party [Mahamud Hassan RAGE]</list-item>
+      <list-item>Somali Green Party (local chapter of Federation of Green Parties of Africa)</list-item>
+      <list-item>Tayo or TPP [Mohamed Abdullahi MOHAMED]</list-item>
+      <list-item>Tiir Party [Fadhil Sheik MOHAMUD]</list-item>
+      <list-item>United and Democratic Party [Salad Ali JELLE]</list-item>
+      <list-item>United Somali Parliamentarians</list-item>
+    </list-detail>
+    <list-detail name="Political pressure groups and leaders">
+      <list-item>numerous political associations and clan and sub-clan factions exist in support of and against political leaders from clans, Federal Member State presidents, and others, including the former and current presidents</list-item>
+    </list-detail>
+    <nested-detail name="Diplomatic representation in the US">
+      <detail name="chief of mission">Ambassador Ahmed Issa AWAD (since 17 September 2015)</detail>
+      <detail name="chancery">425 East 61st Street, Suite 702, New York City, NY 10021</detail>
+      <detail name="telephone">[1] (212) 688-9410, 688-5046</detail>
+      <detail name="FAX">[1] (212) 759-0651</detail>
+    </nested-detail>
+  </section>
+  <section name="Military and security" id="military">
+    <list-detail name="Military service age and obligation">
+      <list-item>18 is the legal minimum age for compulsory and voluntary military service</list-item>
+    </list-detail>
+    <detail name="Maritime threats">despite a dramatic drop in the number of attacks in 2016, the International Maritime Bureau continues to report the territorial and offshore waters in the Gulf of Aden and Indian Ocean as a region of significant risk for piracy and armed robbery against ships; during the first half of 2017, nine vessels were attacked or hijacked compared with two in 2016; Operation Ocean Shield, the NATO naval task force established in 2009 to combat Somali piracy, concluded its operations in December 2016 as a result of the drop in reported incidents over the last few years; additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, have reduced piracy incidents in that body of water; Somali pirates tend to be heavily armed with automatic weapons and rocket propelled grenades; the use of "mother ships" from which skiffs can be launched to attack vessels allows these pirates to extend the range of their operations hundreds of nautical miles offshore</detail>
+    <detail name="Military branches">National Security Force (NSF): Somali National Army</detail>
+  </section>
+  <section name="People and society" id="people">
+    <detail name="Population">11,031,386</detail>
+    <list-detail name="Ethnic groups">
+      <list-item>Somali 85%</list-item>
+      <list-item>Bantu and other non-Somali 15% (including 30</list-item>
+      <list-item>000 Arabs)</list-item>
+    </list-detail>
+    <list-detail name="Languages">
+      <list-item>Somali (official</list-item>
+      <list-item>according to the 2012 Transitional Federal Charter)</list-item>
+      <list-item>Arabic (official</list-item>
+      <list-item>according to the 2012 Transitional Federal Charter)</list-item>
+      <list-item>Italian</list-item>
+      <list-item>English</list-item>
+    </list-detail>
+    <detail name="Religions">Sunni Muslim (Islam) (official, according to the 2012 Transitional Federal Charter)</detail>
+    <list-detail name="Demographic profile">
+      <list-item>Somalia scores very low for most humanitarian indicators, suffering from poor governance, protracted internal conflict, underdevelopment, economic decline, poverty, social and gender inequality, and environmental degradation. Despite civil war and famine raising its mortality rate, Somalia’s high fertility rate and large proportion of people of reproductive age maintain rapid population growth, with each generation being larger than the prior one. More than 60% of Somalia’s population is younger than 25, and the fertility rate is among the world’s highest at almost 6 children per woman – a rate that has decreased little since the 1970s.</list-item>
+      <list-item>A lack of educational and job opportunities is a major source of tension for Somalia’s large youth cohort, making them vulnerable to recruitment by extremist and pirate groups. Somalia has one of the world’s lowest primary school enrollment rates – just over 40% of children are in school – and one of world’s highest youth unemployment rates. Life expectancy is low as a result of high infant and maternal mortality rates, the spread of preventable diseases, poor sanitation, chronic malnutrition, and inadequate health services.</list-item>
+      <list-item>During the two decades of conflict that followed the fall of the SIAD regime in 1991, hundreds of thousands of Somalis fled their homes. Today Somalia is the world’s third highest source country for refugees, after Syria and Afghanistan. Insecurity, drought, floods, food shortages, and a lack of economic opportunities are the driving factors.</list-item>
+      <list-item>As of 2016, more than 1.1 million Somali refugees were hosted in the region, mainly in Kenya, Yemen, Egypt, Ethiopia, Djibouti, and Uganda, while more than 1.1 million Somalis were internally displaced. Since the implementation of a tripartite voluntary repatriation agreement among Kenya, Somalia, and the UNHCR in 2013, nearly 40,000 Somali refugees have returned home from Kenya’s Dadaab refugee camp – still houses to approximately 260,000 Somalis. The flow sped up rapidly after the Kenyan Government in May 2016 announced its intention to close the camp, worsening security and humanitarian conditions in receiving communities in south-central Somalia. Despite the conflict in Yemen, thousands of Somalis and other refugees and asylum seekers from the Horn of Africa risk their lives crossing the Gulf of Aden to reach Yemen and beyond (often Saudi Arabia). Bossaso in Puntland overtook Obock, Djibouti, as the primary departure point in mid-2014.</list-item>
+    </list-detail>
+    <detail name="Population growth rate">2%</detail>
+    <detail name="Birth rate">39.6 births/1,000 population</detail>
+    <detail name="Death rate">13.1 deaths/1,000 population</detail>
+    <detail name="Net migration rate">-6.5 migrant(s)/1,000 population</detail>
+    <detail name="Population distribution">distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa</detail>
+    <detail name="Total fertility rate">5.8 children born/woman</detail>
+    <detail name="Physicians density">0.03 physicians/1,000 population</detail>
+    <detail name="Hospital bed density">8.7 beds/1,000 population</detail>
+    <detail name="Total fertility rate">5.8 children born/woman</detail>
+    <list-detail name="Urban areas">
+      <list-item>MOGADISHU (capital) 2.138 million</list-item>
+      <list-item>Hargeysa 760,000</list-item>
+    </list-detail>
+    <detail name="HIV/AIDS - adult prevalence rate">0.4%</detail>
+    <detail name="HIV/AIDS - people living with HIV/AIDS">24,000</detail>
+    <detail name="HIV/AIDS - deaths">1,700</detail>
+    <detail name="Obesity - adult prevalence rate">8.3%</detail>
+    <detail name="Children under the age of 5 years underweight">23%</detail>
+    <detail name="Education expenditures">NA</detail>
+    <detail name="Nationality">Somali(s)</detail>
+    <nested-detail name="Dependency ratios">
+      <detail name="total dependency ratio">97.4</detail>
+      <detail name="youth dependency ratio">92.1</detail>
+      <detail name="elderly dependency ratio">5.3</detail>
+    </nested-detail>
+    <nested-detail name="Median age">
+      <detail name="total">18.1 years</detail>
+      <detail name="male">18.3 years</detail>
+      <detail name="female">17.9 years</detail>
+    </nested-detail>
+    <nested-detail name="Urbanization">
+      <detail name="urban population">40.5% of total population</detail>
+      <detail name="rate of urbanization">4.05% annual rate of change (2015-20 est.)</detail>
+    </nested-detail>
+    <nested-detail name="Infant mortality rate">
+      <detail name="total">94.8 deaths/1,000 live births</detail>
+      <detail name="male">103.3 deaths/1,000 live births</detail>
+      <detail name="female">86 deaths/1,000 live births</detail>
+    </nested-detail>
+    <nested-detail name="Life expectancy at birth">
+      <detail name="total population">52.8 years</detail>
+      <detail name="male">50.7 years</detail>
+      <detail name="female">54.9 years</detail>
+    </nested-detail>
+    <nested-detail name="Major infectious diseases">
+      <detail name="degree of risk">very high</detail>
+      <detail name="food or waterborne diseases">bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever</detail>
+      <detail name="vectorborne diseases">dengue fever, malaria, and Rift Valley fever</detail>
+      <detail name="water contact disease">schistosomiasis</detail>
+      <detail name="animal contact disease">rabies</detail>
+    </nested-detail>
+    <histogram name="Age structure" unit="%">
+      <entry from-age="0" to-age="14">43.15</entry>
+      <entry from-age="15" to-age="24">19.04</entry>
+      <entry from-age="25" to-age="54">31.43</entry>
+      <entry from-age="55" to-age="64">4.2</entry>
+      <entry from-age="65">2.19</entry>
+    </histogram>
+    <histogram description="male to female" name="Sex ratio">
+      <entry from-age="0" to-age="0">1.02</entry>
+      <entry from-age="0" to-age="14">1</entry>
+      <entry from-age="15" to-age="24">1.02</entry>
+      <entry from-age="25" to-age="54">1.07</entry>
+      <entry from-age="55" to-age="64">0.96</entry>
+      <entry from-age="65">0.64</entry>
+      <entry>1.01</entry>
+    </histogram>
+  </section>
+  <section name="Transnational issues" id="issues">
+    <list-detail name="Disputes - international">
+      <list-item>Ethiopian forces invaded southern Somalia and routed Islamist Courts from Mogadishu in January 2007</list-item>
+      <list-item>"Somaliland" secessionists provide port facilities in Berbera to landlocked Ethiopia and have established commercial ties with other regional states</list-item>
+      <list-item>"Puntland" and "Somaliland" "governments" seek international support in their secessionist aspirations and overlapping border claims</list-item>
+      <list-item>the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region</list-item>
+      <list-item>Kenya works hard to prevent the clan and militia fighting in Somalia from spreading south across the border, which has long been open to nomadic pastoralists</list-item>
+    </list-detail>
+    <nested-detail name="Refugees and internally displaced persons">
+      <detail name="refugees (country of origin)">18,312 (Ethiopia) (refugees and asylum seekers); 11,367 (Yemen) (refugees and asylum seekers)</detail>
+      <detail name="IDPs">2.1 million (civil war since 1988, clan-based competition for resources; 2011 famine; insecurity because of fighting between al-Shabaab and the Transitional Federal Government's allied forces)</detail>
+    </nested-detail>
+  </section>
+  <section name="Transportation" id="transport">
+    <detail name="Civil aircraft registration country code prefix">6O</detail>
+    <detail name="Airports">61</detail>
+    <nested-detail name="National air transport system">
+      <detail name="number of registered air carriers">1</detail>
+      <detail name="inventory of registered aircraft operated by air carriers">1</detail>
+      <detail name="annual passenger traffic on registered air carriers">251,652</detail>
+      <detail name="annual freight traffic on registered air carriers">0 mt-km</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with paved runways">
+      <detail name="total">6</detail>
+      <detail name="over 3,047 m">4</detail>
+      <detail name="2,438 to 3,047 m">1</detail>
+      <detail name="1,524 to 2,437 m">1</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with unpaved runways">
+      <detail name="total">55</detail>
+      <detail name="over 3,047 m">1</detail>
+      <detail name="2,438 to 3,047 m">5</detail>
+      <detail name="1,524 to 2,437 m">20</detail>
+      <detail name="914 to 1,523 m">23</detail>
+      <detail name="under 914 m">6</detail>
+    </nested-detail>
+    <nested-detail name="Roadways">
+      <detail name="total">22,100 km</detail>
+      <detail name="paved">2,608 km</detail>
+      <detail name="unpaved">19,492 km</detail>
+    </nested-detail>
+    <nested-detail name="Merchant marine">
+      <detail name="total">5</detail>
+      <detail name="by type">general cargo 2, other 3</detail>
+    </nested-detail>
+    <nested-detail name="Ports and terminals">
+      <detail name="major seaport(s)">Berbera, Kismaayo</detail>
+    </nested-detail>
+  </section>
+</country>
+
+    
+<country generated-from="https://www.cia.gov/library/publications/the-world-factbook/geos/sf.html" id="south_africa">
+  <introduction>
+    <name>South Africa</name>
+    <background>
+      <paragraph>South Africa is home to some of the world’s oldest human fossils, and during the modern era the region was settled by Khoisan and Bantu peoples. Dutch traders landed at the southern tip of modern day South Africa in 1652 and established a stopover point on the spice route between the Netherlands and the Far East, founding the city of Cape Town. After the British seized the Cape of Good Hope area in 1806, many of the Dutch settlers (Afrikaners, called "Boers" (farmers) by the British) trekked north to found their own republics, Transvaal and Orange Free State. The discovery of diamonds and gold spurred wealth and immigration and intensified the subjugation of the native inhabitants. The Afrikaners resisted British encroachments but were defeated in the Second South African War (1899-1902); however, the British and the Afrikaners, ruled together beginning in 1910 under the Union of South Africa, which became a republic in 1961 after a whites-only referendum. In 1948, the Afrikaner-dominated National Party was voted into power and instituted a policy of apartheid - the separate development of the races - which favored the white minority at the expense of the black majority. The African National Congress (ANC) led the opposition to apartheid and many top ANC leaders, such as Nelson MANDELA, spent decades in South Africa's prisons. Internal protests and insurgency, as well as boycotts by some Western nations and institutions, led to the regime's eventual willingness to negotiate a peaceful transition to majority rule.</paragraph>
+      <paragraph>The first multi-racial elections in 1994 following the end of apartheid ushered in majority rule under an ANC-led government. South Africa has since struggled to address apartheid-era imbalances in decent housing, education, and health care. Jacob ZUMA became president in 2009 and was reelected in 2014, but was forced to resign in February 2018 after numerous corruption scandals and gains by opposition parties in municipal elections in 2016. His successor, Cyril RAMAPHOSA, has pledged to crack down on corruption and shore up state-owned enterprises, and is the ANC’s likely candidate for May 2019 national elections.</paragraph>
+    </background>
+  </introduction>
+  <pictures>
+    <picture description="Flag">https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/sf-lgflag.gif</picture>
+    <picture description="Location">https://www.cia.gov/library/publications/the-world-factbook/graphics/locator/afr/sf_large_locator.gif</picture>
+    <picture description="Map">https://www.cia.gov/library/publications/the-world-factbook/graphics/maps/sf-map.gif</picture>
+    <photos>
+      <photo description="Satellite view of South Africa. The rugged Great Karoo semi-desert region makes up much of the central and western part of the country. The brown and orange landscape that surrounds South Africa's northwestern borders is the Kalahari Desert, a vast sand basin marked by dunes and dry savannah vegetation. The southern edge of the desert is defined by the Orange River, which also forms South Africa's northwestern border with Namibia. Within South Africa is the enclave of Lesotho. Northeast of Lesotho is the smaller country of Swaziland. Photo courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_009.jpg</photo>
+      <photo description="The reddish-brown Kalahari Desert with its northwest-southeast-trending sand dunes and dry lakebeds stands out in this image of South Africa. Also distinguishable are the westward-flowing Orange River, south of the true desert; the cape ranges of folded mountains near the extreme southern point of South Africa; as well as Cape Town, the Cape of Good Hope, and Cape Agulhas. Image courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_010.jpg</photo>
+      <photo description="Cape Town is considered to be one of the great scenic cities of the world. Situated in the southwestern part of Cape Province, it lies at the foot of Table Mountain (1,088 m; 3,567 feet in altitude) on the shore of Table Bay, in which lies Robben Island. Because the mountains obstruct inland expansion, the city has developed along the coast. The Cape of Good Hope appears at the southern tip of the Cape Peninsula. Photo courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_011.jpg</photo>
+      <photo description="Shoreline along the Cape of Good Hope.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_008.jpg</photo>
+      <photo description="Observation tower at the Cape of Good Hope.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_007.jpg</photo>
+      <photo description="The Cape of Good Hope.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_006.jpg</photo>
+      <photo description="Local residents at the Cape of Good Hope - Chacma or Cape Baboons.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_005.jpg</photo>
+      <photo description="Table Mountain - a level plataeu about 3 km (2 mi) from side to side - overlooking some homes in Cape Town.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_004.jpg</photo>
+      <photo description="Sculpture at a Cape Town shopping mall.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_003.jpg</photo>
+      <photo description="The picturesque Victoria and Albert Waterfront in Cape Town, affords photographers a wide range of opportunities. With Table Mountain as a scenic backdrop, marine vessels of all kinds can be seen coming and going from this working harbor and residential marina.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_002.jpg</photo>
+      <photo description="The patience of this fur seal was tested severely as the photographer got a little too close for comfort. The seal had been relaxing on a dock in the harbor of Cape Town.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/sf/images/SF_001.jpg</photo>
+    </photos>
+  </pictures>
+  <section name="Communications" id="communication">
+    <detail name="Broadcast media">the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are free-to-air and 1 is pay TV; e.tv, a private station, is accessible to more than half the population; multiple subscription TV services provide a mix of local and international channels; well-developed mix of public and private radio stations at the national, regional, and local levels; the SABC radio network, state-owned and controlled but nominally independent, operates 18 stations, one for each of the 11 official languages, 4 community stations, and 3 commercial stations; more than 100 community-based stations extend coverage to rural areas</detail>
+    <detail name="Internet country code">.za</detail>
+    <nested-detail name="Telephones - fixed lines">
+      <detail name="total subscriptions">3,562,982</detail>
+      <detail name="subscriptions per 100 inhabitants">7</detail>
+    </nested-detail>
+    <nested-detail name="Telephones - mobile cellular">
+      <detail name="total">76,653,421</detail>
+      <detail name="subscriptions per 100 inhabitants">141</detail>
+    </nested-detail>
+    <nested-detail name="Telephone system">
+      <detail name="general assessment">the system is the best-developed and most modern in Africa</detail>
+      <detail name="domestic">combined fixed-line and mobile-cellular teledensity exceeds 145 telephones per 100 persons; consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria</detail>
+      <detail name="international">country code - 27; the SAT-3/WASC and SAFE fiber-optic submarine cable systems connect South Africa to Europe and Asia; the EASSy fiber-optic cable system connects with Europe and North America; satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean)</detail>
+    </nested-detail>
+    <nested-detail name="Internet users">
+      <detail name="total">29,322,380</detail>
+      <detail name="percent of population">54.0%</detail>
+    </nested-detail>
+  </section>
+  <section name="Economy" id="economy">
+    <detail name="Overview">South Africa is a middle-income emerging market with an abundant supply of natural resources; well-developed financial, legal, communications, energy, and transport sectors; and a stock exchange that is Africa’s largest and among the top 20 in the world.</detail>
+    <detail name="GDP (purchasing power parity)">$757.3 billion</detail>
+    <detail name="GDP (official exchange rate)">$344.1 billion</detail>
+    <detail name="GDP per capita">$13,400</detail>
+    <detail name="Gross national saving">16.2% of GDP</detail>
+    <list-detail name="Agricultural products">
+      <list-item>corn, wheat, sugarcane, fruits, vegetables</list-item>
+      <list-item>beef, poultry, mutton, wool, dairy products</list-item>
+    </list-detail>
+    <detail name="Industries">mining (world's largest producer of platinum, gold, chromium), automobile assembly, metalworking, machinery, textiles, iron and steel, chemicals, fertilizer, foodstuffs, commercial ship repair</detail>
+    <detail name="Industrial production growth rate">0.5%</detail>
+    <detail name="Labor force">22.19 million</detail>
+    <detail name="Unemployment rate">27.6%</detail>
+    <detail name="Population below poverty line">16.6%</detail>
+    <detail name="Distribution of family income - Gini index">62.5</detail>
+    <detail name="Taxes and other revenues">26.9% of GDP</detail>
+    <detail name="Budget surplus (+) or deficit (-)">-3.2% of GDP</detail>
+    <detail name="Public debt">50.1% of GDP</detail>
+    <detail name="Fiscal year">1 April - 31 March</detail>
+    <detail name="Inflation rate (consumer prices)">5.4%</detail>
+    <detail name="Central bank discount rate">5.75%</detail>
+    <detail name="Commercial bank prime lending rate">10.4%</detail>
+    <detail name="Stock of narrow money">$116.5 billion</detail>
+    <detail name="Stock of broad money">$183.8 billion</detail>
+    <detail name="Stock of domestic credit">$237.6 billion</detail>
+    <detail name="Market value of publicly traded shares">$735.9 billion</detail>
+    <detail name="Current account balance">$-9.81 billion</detail>
+    <detail name="Exports">$78.25 billion</detail>
+    <detail name="Export commodities">gold, diamonds, platinum, other metals and minerals, machinery and equipment</detail>
+    <detail name="Export partners">China 9.2%, Germany 7.5%, US 7.4%, Botswana 5%, Namibia 4.8%, Japan 4.6%, India 4.3%, UK 4.2%</detail>
+    <detail name="Imports">$80.22 billion</detail>
+    <detail name="Import commodities">machinery and equipment, chemicals, petroleum products, scientific instruments, foodstuffs</detail>
+    <detail name="Import partners">China 18.1%, Germany 11.8%, US 6.7%, India 4.2%</detail>
+    <detail name="Reserves of foreign exchange and gold">$48.18 billion</detail>
+    <detail name="Debt - external">$144.1 billion</detail>
+    <detail name="Stock of direct foreign investment - at home">$139.2 billion</detail>
+    <detail name="Stock of direct foreign investment - abroad">$176.3 billion</detail>
+    <nested-detail name="GDP - composition, by end use">
+      <detail name="household consumption">59.8%</detail>
+      <detail name="government consumption">20.7%</detail>
+      <detail name="investment in fixed capital">20%</detail>
+      <detail name="investment in inventories">-0.4%</detail>
+      <detail name="exports of goods and services">26.9%</detail>
+      <detail name="imports of goods and services">-27%</detail>
+    </nested-detail>
+    <nested-detail name="Labor force - by occupation">
+      <detail name="agriculture">4.6%</detail>
+      <detail name="industry">23.5%</detail>
+      <detail name="services">71.9%</detail>
+    </nested-detail>
+    <nested-detail name="Household income or consumption by percentage share">
+      <detail name="lowest 10%">1.2%</detail>
+      <detail name="highest 10%">51.3%</detail>
+    </nested-detail>
+    <nested-detail name="Budget">
+      <detail name="revenues">$92.38 billion</detail>
+      <detail name="expenditures">$103.3 billion</detail>
+    </nested-detail>
+  </section>
+  <section name="Energy" id="energy">
+    <detail name="Electricity - production">229.2 billion kWh</detail>
+    <detail name="Electricity - consumption">207.7 billion kWh</detail>
+    <detail name="Electricity - exports">16.55 billion kWh</detail>
+    <detail name="Electricity - imports">10.56 billion kWh</detail>
+    <detail name="Electricity - installed generating capacity">47.28 million kW</detail>
+    <detail name="Electricity - from fossil fuels">86.7% of total installed capacity</detail>
+    <detail name="Electricity - from nuclear fuels">3.9% of total installed capacity</detail>
+    <detail name="Electricity - from hydroelectric plants">1.4% of total installed capacity</detail>
+    <detail name="Electricity - from other renewable sources">7.1% of total installed capacity</detail>
+    <detail name="Crude oil - production">2,000 bbl/day</detail>
+    <detail name="Crude oil - exports">0 bbl/day</detail>
+    <detail name="Crude oil - imports">434,500 bbl/day</detail>
+    <detail name="Crude oil - proved reserves">15 million bbl</detail>
+    <detail name="Refined petroleum products - production">431,000 bbl/day</detail>
+    <detail name="Refined petroleum products - consumption">660,000 bbl/day</detail>
+    <detail name="Refined petroleum products - exports">78,110 bbl/day</detail>
+    <detail name="Refined petroleum products - imports">164,700 bbl/day</detail>
+    <detail name="Natural gas - production">1.1 billion cu m</detail>
+    <detail name="Natural gas - consumption">8.66 billion cu m</detail>
+    <detail name="Natural gas - exports">0 cu m</detail>
+    <detail name="Natural gas - imports">3.8 billion cu m</detail>
+    <detail name="Natural gas - proved reserves">15.01 billion cu m</detail>
+    <detail name="Carbon dioxide emissions from consumption of energy">482 million Mt</detail>
+    <nested-detail name="Electricity access">
+      <detail name="population without electricity">7,700,000</detail>
+      <detail name="electrification - total population">85%</detail>
+      <detail name="electrification - urban areas">90%</detail>
+      <detail name="electrification - rural areas">77%</detail>
+    </nested-detail>
+  </section>
+  <section name="Geography" id="geography">
+    <detail name="Location">Southern Africa, at the southern tip of the continent of Africa</detail>
+    <detail name="Coordinates">29 00 S, 24 00 E</detail>
+    <detail name="Coastline">2,798 km</detail>
+    <detail name="Climate">mostly semiarid; subtropical along east coast; sunny days, cool nights</detail>
+    <detail name="Terrain">vast interior plateau rimmed by rugged hills and narrow coastal plain</detail>
+    <list-detail name="Natural resources">
+      <list-item>gold</list-item>
+      <list-item>chromium</list-item>
+      <list-item>antimony</list-item>
+      <list-item>coal</list-item>
+      <list-item>iron ore</list-item>
+      <list-item>manganese</list-item>
+      <list-item>nickel</list-item>
+      <list-item>phosphates</list-item>
+      <list-item>tin</list-item>
+      <list-item>rare earth elements</list-item>
+      <list-item>uranium</list-item>
+      <list-item>gem diamonds</list-item>
+      <list-item>platinum</list-item>
+      <list-item>copper</list-item>
+      <list-item>vanadium</list-item>
+      <list-item>salt</list-item>
+      <list-item>natural gas</list-item>
+    </list-detail>
+    <detail name="Irrigated land">16,700 sq km</detail>
+    <list-detail name="Natural hazards">
+      <list-item>prolonged droughts</list-item>
+    </list-detail>
+    <list-detail name="Current environment issues">
+      <list-item>lack of important arterial rivers or lakes requires extensive water conservation and control measures</list-item>
+      <list-item>growth in water usage outpacing supply</list-item>
+      <list-item>pollution of rivers from agricultural runoff and urban discharge</list-item>
+      <list-item>air pollution resulting in acid rain</list-item>
+      <list-item>soil erosion</list-item>
+      <list-item>desertification</list-item>
+    </list-detail>
+    <detail name="Population - distribution">the population concentrated along the southern and southeastern coast, and inland around Petoria; the eastern half of the country is more densly populated than the west</detail>
+    <nested-detail name="Area">
+      <detail name="total">1,219,090 sq km</detail>
+      <detail name="land">1,214,470 sq km</detail>
+      <detail name="water">4,620 sq km</detail>
+    </nested-detail>
+    <nested-detail name="Maritime claims">
+      <detail name="territorial sea">12 nm</detail>
+      <detail name="contiguous zone">24 nm</detail>
+      <detail name="exclusive economic zone">200 nm</detail>
+      <detail name="continental shelf">200 nm or to edge of the continental margin</detail>
+    </nested-detail>
+    <nested-detail name="Land use">
+      <detail name="agricultural land">79.4%</detail>
+      <detail name="forest">7.6%</detail>
+      <detail name="other">13%</detail>
+    </nested-detail>
+    <nested-detail name="Environment international agreements">
+      <detail name="party to">Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling</detail>
+      <detail name="signed, but not ratified">none of the selected agreements</detail>
+    </nested-detail>
+    <detail name="Land boundaries">2,798 km</detail>
+  </section>
+  <section name="Government" id="government">
+    <detail name="Government type">parliamentary republic</detail>
+    <list-detail name="Administrative divisions">
+      <list-item>9 provinces</list-item>
+      <list-item>Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape, North West, Western Cape</list-item>
+    </list-detail>
+    <list-detail name="Independence">
+      <list-item>31 May 1910 (Union of South Africa formed from four British colonies: Cape Colony, Natal, Transvaal, and Orange Free State)</list-item>
+      <list-item>31 May 1961 (republic declared)</list-item>
+      <list-item>27 April 1994 (majority rule)</list-item>
+    </list-detail>
+    <detail name="National holiday">Freedom Day, 27 April</detail>
+    <detail name="Legal system">mixed legal system of Roman-Dutch civil law, English common law, and customary law</detail>
+    <detail name="International law organization participation">has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction</detail>
+    <detail name="Suffrage">18 years of age; universal</detail>
+    <list-detail name="International organization participation">
+      <list-item>ACP</list-item>
+      <list-item>AfDB</list-item>
+      <list-item>AU</list-item>
+      <list-item>BIS</list-item>
+      <list-item>BRICS</list-item>
+      <list-item>C</list-item>
+      <list-item>CD</list-item>
+      <list-item>FAO</list-item>
+      <list-item>FATF</list-item>
+      <list-item>G-20</list-item>
+      <list-item>G-24</list-item>
+      <list-item>G-5</list-item>
+      <list-item>G-77</list-item>
+      <list-item>IAEA</list-item>
+      <list-item>IBRD</list-item>
+      <list-item>ICAO</list-item>
+      <list-item>ICC (national committees)</list-item>
+      <list-item>ICCt</list-item>
+      <list-item>ICRM</list-item>
+      <list-item>IDA</list-item>
+      <list-item>IFAD</list-item>
+      <list-item>IFC</list-item>
+      <list-item>IFRCS</list-item>
+      <list-item>IHO</list-item>
+      <list-item>ILO</list-item>
+      <list-item>IMF</list-item>
+      <list-item>IMO</list-item>
+      <list-item>IMSO</list-item>
+      <list-item>Interpol</list-item>
+      <list-item>IOC</list-item>
+      <list-item>IOM</list-item>
+      <list-item>IPU</list-item>
+      <list-item>ISO</list-item>
+      <list-item>ITSO</list-item>
+      <list-item>ITU</list-item>
+      <list-item>ITUC (NGOs)</list-item>
+      <list-item>MIGA</list-item>
+      <list-item>MONUSCO</list-item>
+      <list-item>NAM</list-item>
+      <list-item>NSG</list-item>
+      <list-item>OECD (enhanced engagement)</list-item>
+      <list-item>OPCW</list-item>
+      <list-item>Paris Club (associate)</list-item>
+      <list-item>PCA</list-item>
+      <list-item>SACU</list-item>
+      <list-item>SADC</list-item>
+      <list-item>UN</list-item>
+      <list-item>UNAMID</list-item>
+      <list-item>UNCTAD</list-item>
+      <list-item>UNESCO</list-item>
+      <list-item>UNHCR</list-item>
+      <list-item>UNIDO</list-item>
+      <list-item>UNITAR</list-item>
+      <list-item>UNWTO</list-item>
+      <list-item>UPU</list-item>
+      <list-item>WCO</list-item>
+      <list-item>WFTU (NGOs)</list-item>
+      <list-item>WHO</list-item>
+      <list-item>WIPO</list-item>
+      <list-item>WMO</list-item>
+      <list-item>WTO</list-item>
+      <list-item>ZC</list-item>
+    </list-detail>
+    <detail name="Flag description">two equal width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y, the arms of which end at the corners of the hoist side; the Y embraces a black isosceles triangle from which the arms are separated by narrow yellow bands; the red and blue bands are separated from the green band and its arms by narrow white stripes; the flag colors do not have any official symbolism, but the Y stands for the "convergence of diverse elements within South African society, taking the road ahead in unity"; black, yellow, and green are found on the flag of the African National Congress, while red, white, and blue are the colors in the flags of the Netherlands and the UK, whose settlers ruled South Africa during the colonial era</detail>
+    <list-detail name="National symbol(s)">
+      <list-item>springbok (antelope), king protea flower</list-item>
+      <list-item>national colors: red, green, blue, yellow, black, white</list-item>
+    </list-detail>
+    <nested-detail name="Country name">
+      <detail name="conventional long form">Republic of South Africa</detail>
+      <detail name="conventional short form">South Africa</detail>
+      <detail name="former">Union of South Africa</detail>
+      <detail name="abbreviation">RSA</detail>
+      <detail name="etymology">self-descriptive name from the country's location on the continent; "Africa" is derived from the Roman designation of the area corresponding to present-day Tunisia "Africa terra," which meant "Land of the Afri" (the tribe resident in that area), but which eventually came to mean the entire continent</detail>
+    </nested-detail>
+    <nested-detail name="Capital">
+      <detail name="name">Pretoria (administrative capital); Cape Town (legislative capital); Bloemfontein (judicial capital)</detail>
+      <detail name="geographic coordinates">25 42 S, 28 13 E</detail>
+      <detail name="time difference">UTC+2 (7 hours ahead of Washington, DC, during Standard Time)</detail>
+    </nested-detail>
+    <nested-detail name="Constitution">
+      <detail name="history">several previous; latest drafted 8 May 1996, approved by Constitutional Court 4 December 1996, effective 4 February 1997</detail>
+      <detail name="amendments">proposed by the National Assembly of Parliament; passage of amendments affecting constitutional sections on human rights and freedoms, non-racism and non-sexism, supremacy of the constitution, suffrage, the multi-party system of democratic government, and amendment procedures requires at least 75% majority vote of the Assembly, approval by at least six of the nine provinces represented in the National Council of Provinces, and assent by the president of the republic; passage of amendments affecting the Bill of Rights, and those related to provincial boundaries, powers, and authorities requires at least two-thirds majority vote of the Assembly, approval by at least six of the nine provinces represented in the National Council, and assent by the president; amended many times, last in 2013</detail>
+    </nested-detail>
+    <nested-detail name="Citizenship">
+      <detail name="citizenship by birth">no</detail>
+      <detail name="citizenship by descent only">at least one parent must be a citizen of South Africa</detail>
+      <detail name="dual citizenship recognized">yes, but requires prior permission of the government</detail>
+      <detail name="residency requirement for naturalization">1 year</detail>
+    </nested-detail>
+    <nested-detail name="Executive branch">
+      <detail name="chief of state">President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President David MABUZA ; note - the president is both chief of state and head of government; Jacob ZUMA resigned the presidency on 14 February 2018</detail>
+      <detail name="head of government">President Matamela Cyril RAMAPHOSA (since 15 February 2018); deputy president David MABUZA ; note - Jacob ZUMA resigned the presidency on 14 February 2018</detail>
+      <detail name="cabinet">Cabinet appointed by the president</detail>
+      <detail name="elections/appointments">president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 15 February 2018 to elect Cyril RAMAPHOSA as acting president to replace ZUMA for the remainder of his term</detail>
+      <detail name="election results">Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed</detail>
+    </nested-detail>
+    <nested-detail name="Legislative branch">
+      <detail name="description">bicameral Parliament consists of the National Council of Provinces (90 seats; 10-member delegations appointed by each of the 9 provincial legislatures to serve 5-year terms; note - this council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities) and the National Assembly (400 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)</detail>
+      <detail name="elections">National Council of Provinces and National Assembly - last held on 7 May 2014</detail>
+      <detail name="election results">National Council of Provinces - percent of vote by party - NA; seats by party - ANC 60, DA 20, EFF 7, IFP 1, NFP 1, UDM 1; National Assembly - percent of vote by party - ANC 62.2%, DA 22.2%, EFF 6.4%, IFP 2.4%, NFP 1.6%, UDM 1.0%, other 4.2%; seats by party - ANC 249, DA 89, EFF 25, IFP 10, NFP 6, UDM 4, other 17</detail>
+    </nested-detail>
+    <nested-detail name="Judicial branch">
+      <detail name="highest court(s)">Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)</detail>
+      <detail name="judge selection and term of office">Supreme Court of Appeals president and vice president appointed by the national president after consultation with the Judicial Services Commission (JSC), a 23-member body chaired by the chief justice and includes other judges and judicial executives, members of parliament, practicing lawyers and advocates, a teacher of law, and several members designated by the national president; other Supreme Court judges appointed by the national president on the advice of the JSC and hold office until discharged from active service by an Act of Parliament; Constitutional Court chief and deputy chief justices appointed by the national president after consultation with the JSC and with heads of the National Assembly; other Constitutional Court judges appointed by the national president after consultation with the chief justice and leaders of the National Assembly; Constitutional Court judges appointed for 12-year non-renewable terms or until age 70</detail>
+      <detail name="subordinate courts">High Courts; Magistrates' Courts; labor courts; land claims courts</detail>
+    </nested-detail>
+    <nested-detail name="National anthem">
+      <detail name="name">"National Anthem of South Africa"</detail>
+      <detail name="lyrics/music">Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA and Marthinus LOURENS de Villiers</detail>
+      <detail name="note">adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (i.e., the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems</detail>
+    </nested-detail>
+    <detail name="Diplomatic representation in the US">two equal width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y, the arms of which end at the corners of the hoist side; the Y embraces a black isosceles triangle from which the arms are separated by narrow yellow bands; the red and blue bands are separated from the green band and its arms by narrow white stripes; the flag colors do not have any official symbolism, but the Y stands for the "convergence of diverse elements within South African society, taking the road ahead in unity"; black, yellow, and green are found on the flag of the African National Congress, while red, white, and blue are the colors in the flags of the Netherlands and the UK, whose settlers ruled South Africa during the colonial era</detail>
+    <detail name="Diplomatic representation from the US">two equal width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y, the arms of which end at the corners of the hoist side; the Y embraces a black isosceles triangle from which the arms are separated by narrow yellow bands; the red and blue bands are separated from the green band and its arms by narrow white stripes; the flag colors do not have any official symbolism, but the Y stands for the "convergence of diverse elements within South African society, taking the road ahead in unity"; black, yellow, and green are found on the flag of the African National Congress, while red, white, and blue are the colors in the flags of the Netherlands and the UK, whose settlers ruled South Africa during the colonial era</detail>
+  </section>
+  <section name="Military and security" id="military">
+    <detail name="Military expenditures">1.07% of GDP</detail>
+    <list-detail name="Military service age and obligation">
+      <list-item>18 years of age for voluntary military service</list-item>
+      <list-item>women are eligible to serve in noncombat roles</list-item>
+      <list-item>2-year service obligation</list-item>
+    </list-detail>
+    <list-detail name="Military branches">
+      <list-item>South African National Defense Force (SANDF): South African Army</list-item>
+      <list-item>South African Navy (SAN)</list-item>
+      <list-item>South African Air Force (SAAF)</list-item>
+      <list-item>South African Military Health Services</list-item>
+    </list-detail>
+  </section>
+  <section name="People and society" id="people">
+    <detail name="Population">54,841,552</detail>
+    <list-detail name="Ethnic groups">
+      <list-item>black African 80.2%</list-item>
+      <list-item>white 8.4%</list-item>
+      <list-item>colored 8.8%</list-item>
+      <list-item>Indian/Asian 2.5%</list-item>
+    </list-detail>
+    <list-detail name="Languages">
+      <list-item>isiZulu (official) 22.7%</list-item>
+      <list-item>isiXhosa (official) 16%</list-item>
+      <list-item>Afrikaans (official) 13.5%</list-item>
+      <list-item>English (official) 9.6%</list-item>
+      <list-item>Sepedi (official) 9.1%</list-item>
+      <list-item>Setswana (official) 8%</list-item>
+      <list-item>Sesotho (official) 7.6%</list-item>
+      <list-item>Xitsonga (official) 4.5%</list-item>
+      <list-item>siSwati (official) 2.5%</list-item>
+      <list-item>Tshivenda (official) 2.4%</list-item>
+      <list-item>isiNdebele (official) 2.1%</list-item>
+      <list-item>sign language 0.5%</list-item>
+      <list-item>other 1.6%</list-item>
+    </list-detail>
+    <detail name="Religions">Protestant 36.6% (Zionist Christian 11.1%, Pentecostal/Charismatic 8.2%, Methodist 6.8%, Dutch Reformed 6.7%, Anglican 3.8%), Catholic 7.1%, Muslim 1.5%, other Christian 36%, other 2.3%, unspecified 1.4%, none 15.1%</detail>
+    <list-detail name="Demographic profile">
+      <list-item>South Africa’s youthful population is gradually aging, as the country’s total fertility rate (TFR) has declined dramatically from about 6 children per woman in the 1960s to roughly 2.2 in 2014. This pattern is similar to fertility trends in South Asia, the Middle East, and North Africa, and sets South Africa apart from the rest of sub-Saharan Africa, where the average TFR remains higher than other regions of the world. Today, South Africa’s decreasing number of reproductive age women is having fewer children, as women increase their educational attainment, workforce participation, and use of family planning methods; delay marriage; and opt for smaller families.</list-item>
+      <list-item>As the proportion of working-age South Africans has grown relative to children and the elderly, South Africa has been unable to achieve a demographic dividend because persistent high unemployment and the prevalence of HIV/AIDs have created a larger-than-normal dependent population. HIV/AIDS was also responsible for South Africa’s average life expectancy plunging to less than 43 years in 2008; it has rebounded to 63 years as of 2017. HIV/AIDS continues to be a serious public health threat, although awareness-raising campaigns and the wider availability of anti-retroviral drugs is stabilizing the number of new cases, enabling infected individuals to live longer, healthier lives, and reducing mother-child transmissions.</list-item>
+      <list-item>Migration to South Africa began in the second half of the 17th century when traders from the Dutch East India Company settled in the Cape and started using slaves from South and southeast Asia (mainly from India but also from present-day Indonesia, Bangladesh, Sri Lanka, and Malaysia) and southeast Africa (Madagascar and Mozambique) as farm laborers and, to a lesser extent, as domestic servants. The Indian subcontinent remained the Cape Colony’s main source of slaves in the early 18th century, while slaves were increasingly obtained from southeast Africa in the latter part of the 18th century and into the 19th century under British rule.</list-item>
+      <list-item>After slavery was completely abolished in the British Empire in 1838, South Africa’s colonists turned to temporary African migrants and indentured labor through agreements with India and later China, countries that were anxious to export workers to alleviate domestic poverty and overpopulation. Of the more than 150,000 indentured Indian laborers hired to work in Natal’s sugar plantations between 1860 and 1911, most exercised the right as British subjects to remain permanently (a small number of Indian immigrants came freely as merchants). Because of growing resentment toward Indian workers, the 63,000 indentured Chinese workers who mined gold in Transvaal between 1904 and 1911 were under more restrictive contracts and generally were forced to return to their homeland.</list-item>
+      <list-item>In the late 19th century and nearly the entire 20th century, South Africa’s then British colonies’ and Dutch states’ enforced selective immigration policies that welcomed “assimilable” white Europeans as permanent residents but excluded or restricted other immigrants. Following the Union of South Africa’s passage of a law in 1913 prohibiting Asian and other non-white immigrants and its elimination of the indenture system in 1917, temporary African contract laborers from neighboring countries became the dominant source of labor in the burgeoning mining industries. Others worked in agriculture and smaller numbers in manufacturing, domestic service, transportation, and construction. Throughout the 20th century, at least 40% of South Africa’s miners were foreigners; the numbers peaked at over 80% in the late 1960s. Mozambique, Lesotho, Botswana, and Swaziland were the primary sources of miners, and Malawi and Zimbabwe were periodic suppliers.</list-item>
+      <list-item>Under apartheid, a “two gates” migration policy focused on policing and deporting illegal migrants rather than on managing migration to meet South Africa’s development needs. The exclusionary 1991 Aliens Control Act limited labor recruitment to the highly skilled as defined by the ruling white minority, while bilateral labor agreements provided exemptions that enabled the influential mining industry and, to a lesser extent, commercial farms, to hire temporary, low-paid workers from neighboring states. Illegal African migrants were often tacitly allowed to work for low pay in other sectors but were always under threat of deportation.</list-item>
+      <list-item>The abolishment of apartheid in 1994 led to the development of a new inclusive national identity and the strengthening of the country’s restrictive immigration policy. Despite South Africa’s protectionist approach to immigration, the downsizing and closing of mines, and rising unemployment, migrants from across the continent believed that the country held work opportunities. Fewer African labor migrants were issued temporary work permits and, instead, increasingly entered South Africa with visitors’ permits or came illegally, which drove growth in cross-border trade and the informal job market. A new wave of Asian immigrants has also arrived over the last two decades, many operating small retail businesses.</list-item>
+      <list-item>In the post-apartheid period, increasing numbers of highly skilled white workers emigrated, citing dissatisfaction with the political situation, crime, poor services, and a reduced quality of life. The 2002 Immigration Act and later amendments were intended to facilitate the temporary migration of skilled foreign labor to fill labor shortages, but instead the legislation continues to create regulatory obstacles. Although the education system has improved and brain drain has slowed in the wake of the 2008 global financial crisis, South Africa continues to face skills shortages in several key sectors, such as health care and technology.</list-item>
+      <list-item>South Africa’s stability and economic growth has acted as a magnet for refugees and asylum seekers from nearby countries, despite the prevalence of discrimination and xenophobic violence. Refugees have included an estimated 350,000 Mozambicans during its 1980s civil war and, more recently, several thousand Somalis, Congolese, and Ethiopians. Nearly all of the tens of thousands of Zimbabweans who have applied for asylum in South Africa have been categorized as economic migrants and denied refuge.</list-item>
+    </list-detail>
+    <detail name="Population growth rate">0.99%</detail>
+    <detail name="Birth rate">20.2 births/1,000 population</detail>
+    <detail name="Death rate">9.4 deaths/1,000 population</detail>
+    <detail name="Net migration rate">-0.9 migrant(s)/1,000 population</detail>
+    <detail name="Population distribution">the population concentrated along the southern and southeastern coast, and inland around Petoria; the eastern half of the country is more densly populated than the west</detail>
+    <detail name="Total fertility rate">2.29 children born/woman</detail>
+    <detail name="Health expenditures">8.8% of GDP</detail>
+    <detail name="Physicians density">0.82 physicians/1,000 population</detail>
+    <detail name="Total fertility rate">2.29 children born/woman</detail>
+    <list-detail name="Urban areas">
+      <list-item>Johannesburg (includes Ekurhuleni) 9.399 million</list-item>
+      <list-item>Cape Town (legislative capital) 3.66 million</list-item>
+      <list-item>Durban 2.901 million</list-item>
+      <list-item>PRETORIA (capital) 2.059 million</list-item>
+      <list-item>Port Elizabeth 1.179 million</list-item>
+      <list-item>Vereeniging 1.155 million</list-item>
+    </list-detail>
+    <detail name="HIV/AIDS - adult prevalence rate">18.9%</detail>
+    <detail name="HIV/AIDS - people living with HIV/AIDS">7.1 million</detail>
+    <detail name="HIV/AIDS - deaths">110,000</detail>
+    <detail name="Obesity - adult prevalence rate">28.3%</detail>
+    <detail name="Children under the age of 5 years underweight">8.7%</detail>
+    <detail name="Education expenditures">5.9% of GDP</detail>
+    <detail name="Nationality">South African(s)</detail>
+    <nested-detail name="Dependency ratios">
+      <detail name="total dependency ratio">52.5</detail>
+      <detail name="youth dependency ratio">44.8</detail>
+      <detail name="elderly dependency ratio">7.7</detail>
+    </nested-detail>
+    <nested-detail name="Median age">
+      <detail name="total">27.1 years</detail>
+      <detail name="male">26.9 years</detail>
+      <detail name="female">27.3 years</detail>
+    </nested-detail>
+    <nested-detail name="Urbanization">
+      <detail name="urban population">65.8% of total population</detail>
+      <detail name="rate of urbanization">1.33% annual rate of change (2015-20 est.)</detail>
+    </nested-detail>
+    <nested-detail name="Infant mortality rate">
+      <detail name="total">31 deaths/1,000 live births</detail>
+      <detail name="male">34.4 deaths/1,000 live births</detail>
+      <detail name="female">27.5 deaths/1,000 live births</detail>
+    </nested-detail>
+    <nested-detail name="Life expectancy at birth">
+      <detail name="total population">63.8 years</detail>
+      <detail name="male">62.4 years</detail>
+      <detail name="female">65.3 years</detail>
+    </nested-detail>
+    <nested-detail name="Major infectious diseases">
+      <detail name="degree of risk">intermediate</detail>
+      <detail name="food or waterborne diseases">bacterial diarrhea, hepatitis A, and typhoid fever</detail>
+      <detail name="water contact disease">schistosomiasis</detail>
+    </nested-detail>
+    <nested-detail name="Literacy">
+      <detail name="definition">age 15 and over can read and write</detail>
+      <detail name="total population">94.4%</detail>
+      <detail name="male">95.4%</detail>
+      <detail name="female">93.4%</detail>
+    </nested-detail>
+    <nested-detail name="School life expectancy (primary to tertiary education)">
+      <detail name="total">13 years</detail>
+      <detail name="male">12 years</detail>
+      <detail name="female">13 years</detail>
+    </nested-detail>
+    <nested-detail name="Unemployment, youth ages 15-24">
+      <detail name="total">50.1%</detail>
+      <detail name="male">46.3%</detail>
+      <detail name="female">54.9%</detail>
+    </nested-detail>
+    <histogram name="Age structure" unit="%">
+      <entry from-age="0" to-age="14">28.27</entry>
+      <entry from-age="15" to-age="24">17.61</entry>
+      <entry from-age="25" to-age="54">41.78</entry>
+      <entry from-age="55" to-age="64">6.66</entry>
+      <entry from-age="65">5.68</entry>
+    </histogram>
+    <histogram description="male to female" name="Sex ratio">
+      <entry from-age="0" to-age="0">1.01</entry>
+      <entry from-age="0" to-age="14">1.01</entry>
+      <entry from-age="15" to-age="24">0.98</entry>
+      <entry from-age="25" to-age="54">1.02</entry>
+      <entry from-age="55" to-age="64">0.87</entry>
+      <entry from-age="65">0.73</entry>
+      <entry>0.98</entry>
+    </histogram>
+  </section>
+  <section name="Transnational issues" id="issues">
+    <list-detail name="Disputes - international">
+      <list-item>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</list-item>
+      <list-item>the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River</list-item>
+    </list-detail>
+    <list-detail name="Illicit drugs">
+      <list-item>transshipment center for heroin, hashish, and cocaine, as well as a major cultivator of marijuana in its own right</list-item>
+      <list-item>cocaine and heroin consumption on the rise</list-item>
+      <list-item>world's largest market for illicit methaqualone, usually imported illegally from India through various east African countries, but increasingly producing its own synthetic drugs for domestic consumption</list-item>
+      <list-item>attractive venue for money launderers given the increasing level of organized criminal and narcotics activity in the region and the size of the South African economy</list-item>
+    </list-detail>
+    <nested-detail name="Refugees and internally displaced persons">
+      <detail name="refugees (country of origin)">28,695 (Somalia); 17,776 (Ethiopia); 5,394 (Republic of the Congo) ; 66,528 (Democratic Republic of the Congo) (refugees and asylum seekers)</detail>
+    </nested-detail>
+  </section>
+  <section name="Transportation" id="transport">
+    <detail name="Civil aircraft registration country code prefix">ZS</detail>
+    <detail name="Airports">566</detail>
+    <detail name="Heliports">1</detail>
+    <list-detail name="Pipelines">
+      <list-item>condensate 94 km</list-item>
+      <list-item>gas 1,293 km</list-item>
+      <list-item>oil 992 km</list-item>
+      <list-item>refined products 1,460 km</list-item>
+    </list-detail>
+    <nested-detail name="National air transport system">
+      <detail name="number of registered air carriers">23</detail>
+      <detail name="inventory of registered aircraft operated by air carriers">216</detail>
+      <detail name="annual passenger traffic on registered air carriers">17,188,887</detail>
+      <detail name="annual freight traffic on registered air carriers">885,277,991 mt-km</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with paved runways">
+      <detail name="total">144</detail>
+      <detail name="over 3,047 m">11</detail>
+      <detail name="2,438 to 3,047 m">7</detail>
+      <detail name="1,524 to 2,437 m">52</detail>
+      <detail name="914 to 1,523 m">65</detail>
+      <detail name="under 914 m">9</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with unpaved runways">
+      <detail name="total">422</detail>
+      <detail name="2,438 to 3,047 m">1</detail>
+      <detail name="1,524 to 2,437 m">31</detail>
+      <detail name="914 to 1,523 m">258</detail>
+      <detail name="under 914 m">132</detail>
+    </nested-detail>
+    <nested-detail name="Railways">
+      <detail name="total">20,986 km</detail>
+      <detail name="standard gauge">80 km 1.435-m gauge (80 km electrified)</detail>
+    </nested-detail>
+    <nested-detail name="Roadways">
+      <detail name="total">747,014 km</detail>
+      <detail name="paved">158,952 km</detail>
+      <detail name="unpaved">588,062 km</detail>
+    </nested-detail>
+    <nested-detail name="Merchant marine">
+      <detail name="total">82</detail>
+      <detail name="by type">bulk carrier 2, general cargo 1, oil tanker 5, other 74</detail>
+    </nested-detail>
+    <nested-detail name="Ports and terminals">
+      <detail name="major seaport(s)">Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay</detail>
+      <detail name="container port(s) (TEUs)">Durban (2,770,000)</detail>
+      <detail name="LNG terminal(s) (import)">Mossel Bay</detail>
+    </nested-detail>
+  </section>
+</country>
+
+    
+<country generated-from="https://www.cia.gov/library/publications/the-world-factbook/geos/kn.html" id="north_korea">
+  <introduction>
+    <name>North Korea</name>
+    <background>
+      <paragraph>An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. Five years later, Japan formally annexed the entire peninsula. Following World War II, Korea was split with the northern half coming under Soviet-sponsored communist control. After failing in the Korean War (1950-53) to conquer the US-backed Republic of Korea (ROK) in the southern portion by force, North Korea (DPRK), under its founder President KIM Il Sung, adopted a policy of ostensible diplomatic and economic "self-reliance" as a check against outside influence. The DPRK demonized the US as the ultimate threat to its social system through state-funded propaganda, and molded political, economic, and military policies around the core ideological objective of eventual unification of Korea under Pyongyang's control. KIM Il Sung's son, KIM Jong Il, was officially designated as his father's successor in 1980, assuming a growing political and managerial role until the elder KIM's death in 1994. KIM Jong Un was publicly unveiled as his father's successor in 2010.</paragraph>
+      <paragraph>Following KIM Jong Il's death in 2011, KIM Jong Un quickly assumed power and has now taken on most of his father's former titles and duties. After decades of economic mismanagement and resource misallocation, the DPRK since the mid-1990s has faced chronic food shortages. In recent years, the North’s domestic agricultural production has increased, but still falls far short of producing sufficient food to provide for its entire population. The DPRK began to ease restrictions to allow semi-private markets, starting in 2002, but has made few other efforts to meet its goal of improving the overall standard of living. North Korea's history of regional military provocations; proliferation of military-related items; long-range missile development; WMD programs including tests of nuclear devices in 2006, 2009, 2013, 2016, and 2017; and massive conventional armed forces are of major concern to the international community and have limited the DPRK’s international engagement, particularly economically. The regime abides by a policy calling for the simultaneous development of its nuclear weapons program and its economy.</paragraph>
+    </background>
+  </introduction>
+  <pictures>
+    <picture description="Flag">https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/kn-lgflag.gif</picture>
+    <picture description="Location">https://www.cia.gov/library/publications/the-world-factbook/graphics/locator/eas/kn_large_locator.gif</picture>
+    <picture description="Map">https://www.cia.gov/library/publications/resources/the-world-factbook/graphics/maps/kn-map.gif</picture>
+    <photos>
+      <photo description="Satellite image shows North and South Korea (upper left) as well as the Japanese island of Shikoku, nestled between Kyushu to the southwest and Honshu to the north. Photo courtesy of NASA.">https://www.cia.gov/library/publications/the-world-factbook/photo_gallery/kn/images/KN_001.jpg</photo>
+    </photos>
+  </pictures>
+  <section name="Communications" id="communication">
+    <detail name="Broadcast media">no independent media; radios and TVs are pre-tuned to government stations; 4 government-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts</detail>
+    <detail name="Internet country code">.kp</detail>
+    <nested-detail name="Telephones - fixed lines">
+      <detail name="total subscriptions">1.18 million</detail>
+      <detail name="subscriptions per 100 inhabitants">5</detail>
+    </nested-detail>
+    <nested-detail name="Telephones - mobile cellular">
+      <detail name="total">3.24 million</detail>
+      <detail name="subscriptions per 100 inhabitants">13</detail>
+    </nested-detail>
+    <nested-detail name="Telephone system">
+      <detail name="general assessment">adequate system; nationwide fiber-optic network; mobile-cellular service expanded beyond Pyongyang</detail>
+      <detail name="domestic">fiber-optic links installed down to the county level; telephone directories unavailable; mobile service launched in late 2008 for the Pyongyang area and considerable progress in expanding to other parts of the country since</detail>
+      <detail name="international">country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing</detail>
+    </nested-detail>
+  </section>
+  <section name="Economy" id="economy">
+    <detail name="Overview">North Korea, one of the world's most centrally directed and least open economies, faces chronic economic problems. Industrial capital stock is nearly beyond repair as a result of years of underinvestment, shortages of spare parts, and poor maintenance. Large-scale military spending and development of its ballistic missile and nuclear program severely draws off resources needed for investment and civilian consumption. Industrial and power outputs have stagnated for years at a fraction of pre-1990 levels. Frequent weather-related crop failures aggravated chronic food shortages caused by on-going systemic problems, including a lack of arable land, collective farming practices, poor soil quality, insufficient fertilization, and persistent shortages of tractors and fuel.</detail>
+    <detail name="GDP (purchasing power parity)">$40 billion</detail>
+    <detail name="GDP (official exchange rate)">$28 billion</detail>
+    <detail name="GDP per capita">$1,700</detail>
+    <detail name="Gross national saving">NA%</detail>
+    <list-detail name="Agricultural products">
+      <list-item>rice</list-item>
+      <list-item>corn</list-item>
+      <list-item>potatoes</list-item>
+      <list-item>wheat</list-item>
+      <list-item>soybeans</list-item>
+      <list-item>pulses</list-item>
+      <list-item>beef</list-item>
+      <list-item>pork</list-item>
+      <list-item>eggs</list-item>
+    </list-detail>
+    <detail name="Industries">military products; machine building, electric power, chemicals; mining (coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, and precious metals), metallurgy; textiles, food processing; tourism</detail>
+    <detail name="Industrial production growth rate">1%</detail>
+    <detail name="Labor force">14 million</detail>
+    <detail name="Unemployment rate">25.6%</detail>
+    <detail name="Population below poverty line">NA%</detail>
+    <detail name="Taxes and other revenues">11.4% of GDP</detail>
+    <detail name="Budget surplus (+) or deficit (-)">-0.4% of GDP</detail>
+    <detail name="Fiscal year">calendar year</detail>
+    <detail name="Inflation rate (consumer prices)">NA%</detail>
+    <detail name="Exports">$2.985 billion</detail>
+    <detail name="Export commodities">minerals, metallurgical products, manufactures (including armaments), textiles, agricultural and fishery products</detail>
+    <detail name="Export partners">China 85.6%</detail>
+    <detail name="Imports">$3.752 billion</detail>
+    <detail name="Import commodities">petroleum, coking coal, machinery and equipment, textiles, grain</detail>
+    <detail name="Import partners">China 90.3%</detail>
+    <detail name="Debt - external">$5 billion</detail>
+    <nested-detail name="GDP - composition, by end use">
+      <detail name="household consumption">NA%</detail>
+      <detail name="government consumption">NA%</detail>
+      <detail name="investment in fixed capital">NA%</detail>
+      <detail name="investment in inventories">NA%</detail>
+      <detail name="exports of goods and services">5.9%</detail>
+      <detail name="imports of goods and services">-11.1%</detail>
+    </nested-detail>
+    <nested-detail name="Labor force - by occupation">
+      <detail name="agriculture">37%</detail>
+      <detail name="industry and services">63%</detail>
+    </nested-detail>
+    <nested-detail name="Household income or consumption by percentage share">
+      <detail name="lowest 10%">NA%</detail>
+      <detail name="highest 10%">NA%</detail>
+    </nested-detail>
+    <nested-detail name="Budget">
+      <detail name="revenues">$3.2 billion</detail>
+      <detail name="expenditures">$3.3 billion</detail>
+    </nested-detail>
+  </section>
+  <section name="Energy" id="energy">
+    <detail name="Electricity - production">13.41 billion kWh</detail>
+    <detail name="Electricity - consumption">11.24 billion kWh</detail>
+    <detail name="Electricity - exports">0 kWh</detail>
+    <detail name="Electricity - imports">0 kWh</detail>
+    <detail name="Electricity - installed generating capacity">10 million kW</detail>
+    <detail name="Electricity - from fossil fuels">45% of total installed capacity</detail>
+    <detail name="Electricity - from nuclear fuels">0% of total installed capacity</detail>
+    <detail name="Electricity - from hydroelectric plants">55% of total installed capacity</detail>
+    <detail name="Electricity - from other renewable sources">0% of total installed capacity</detail>
+    <detail name="Crude oil - production">0 bbl/day</detail>
+    <detail name="Crude oil - exports">0 bbl/day</detail>
+    <detail name="Crude oil - imports">10,640 bbl/day</detail>
+    <detail name="Crude oil - proved reserves">0 bbl</detail>
+    <detail name="Refined petroleum products - production">11,270 bbl/day</detail>
+    <detail name="Refined petroleum products - consumption">18,000 bbl/day</detail>
+    <detail name="Refined petroleum products - exports">0 bbl/day</detail>
+    <detail name="Refined petroleum products - imports">5,976 bbl/day</detail>
+    <detail name="Natural gas - production">0 cu m</detail>
+    <detail name="Natural gas - consumption">0 cu m</detail>
+    <detail name="Natural gas - exports">0 cu m</detail>
+    <detail name="Natural gas - imports">0 cu m</detail>
+    <detail name="Natural gas - proved reserves">0 cu m</detail>
+    <detail name="Carbon dioxide emissions from consumption of energy">50 million Mt</detail>
+    <nested-detail name="Electricity access">
+      <detail name="population without electricity">18,400,000</detail>
+      <detail name="electrification - total population">30%</detail>
+      <detail name="electrification - urban areas">41%</detail>
+      <detail name="electrification - rural areas">13%</detail>
+    </nested-detail>
+  </section>
+  <section name="Geography" id="geography">
+    <detail name="Location">Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and the Sea of Japan, between China and South Korea</detail>
+    <detail name="Coordinates">40 00 N, 127 00 E</detail>
+    <detail name="Coastline">2,495 km</detail>
+    <detail name="Climate">temperate, with rainfall concentrated in summer; long, bitter winters</detail>
+    <detail name="Terrain">mostly hills and mountains separated by deep, narrow valleys; wide coastal plains in west, discontinuous in east</detail>
+    <list-detail name="Natural resources">
+      <list-item>coal</list-item>
+      <list-item>iron ore</list-item>
+      <list-item>limestone</list-item>
+      <list-item>magnesite</list-item>
+      <list-item>graphite</list-item>
+      <list-item>copper</list-item>
+      <list-item>zinc</list-item>
+      <list-item>lead</list-item>
+      <list-item>precious metals</list-item>
+      <list-item>hydropower</list-item>
+    </list-detail>
+    <detail name="Irrigated land">14,600 sq km</detail>
+    <list-detail name="Natural hazards">
+      <list-item>late spring droughts often followed by severe flooding</list-item>
+      <list-item>occasional typhoons during the early fall</list-item>
+    </list-detail>
+    <list-detail name="Current environment issues">
+      <list-item>water pollution</list-item>
+      <list-item>inadequate supplies of potable water</list-item>
+      <list-item>waterborne disease</list-item>
+      <list-item>deforestation</list-item>
+      <list-item>soil erosion and degradation</list-item>
+    </list-detail>
+    <detail name="Population - distribution">population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east</detail>
+    <nested-detail name="Area">
+      <detail name="total">120,538 sq km</detail>
+      <detail name="land">120,408 sq km</detail>
+      <detail name="water">130 sq km</detail>
+    </nested-detail>
+    <nested-detail name="Maritime claims">
+      <detail name="territorial sea">12 nm</detail>
+      <detail name="exclusive economic zone">200 nm</detail>
+      <detail name="note">military boundary line 50 nm in the Sea of Japan and the exclusive economic zone limit in the Yellow Sea where all foreign vessels and aircraft without permission are banned</detail>
+    </nested-detail>
+    <nested-detail name="Land use">
+      <detail name="agricultural land">21.8%</detail>
+      <detail name="forest">46%</detail>
+      <detail name="other">32.2%</detail>
+    </nested-detail>
+    <nested-detail name="Environment international agreements">
+      <detail name="party to">Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution</detail>
+      <detail name="signed, but not ratified">Law of the Sea</detail>
+    </nested-detail>
+    <nested-detail name="Elevation">
+      <detail name="mean elevation">600 m</detail>
+      <detail name="elevation extremes">lowest point: Sea of Japan 0 m</detail>
+    </nested-detail>
+    <nested-detail name="Land boundaries">
+      <detail name="total">1,607 km</detail>
+      <list-detail name="border countries (3)">
+        <list-item>China 1352 km</list-item>
+        <list-item>South Korea 237 km</list-item>
+        <list-item>Russia 18 km</list-item>
+      </list-detail>
+    </nested-detail>
+  </section>
+  <section name="Government" id="government">
+    <detail name="Government type">single-party state; official state ideology of "Juche" or "national self-reliance</detail>
+    <list-detail name="Administrative divisions">
+      <list-item>9 provinces (do</list-item>
+      <list-item>singular and plural) and 3 cities (si</list-item>
+      <list-item>singular and plural)</list-item>
+    </list-detail>
+    <list-detail name="Independence">
+      <list-item>15 August 1945 (from Japan)</list-item>
+    </list-detail>
+    <detail name="National holiday">Founding of the Democratic People's Republic of Korea (DPRK), 9 September</detail>
+    <detail name="Legal system">civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory</detail>
+    <detail name="International law organization participation">has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt</detail>
+    <detail name="Suffrage">17 years of age; universal and compulsory</detail>
+    <list-detail name="International organization participation">
+      <list-item>ARF</list-item>
+      <list-item>FAO</list-item>
+      <list-item>G-77</list-item>
+      <list-item>ICAO</list-item>
+      <list-item>ICRM</list-item>
+      <list-item>IFAD</list-item>
+      <list-item>IFRCS</list-item>
+      <list-item>IHO</list-item>
+      <list-item>IMO</list-item>
+      <list-item>IMSO</list-item>
+      <list-item>IOC</list-item>
+      <list-item>IPU</list-item>
+      <list-item>ISO</list-item>
+      <list-item>ITSO</list-item>
+      <list-item>ITU</list-item>
+      <list-item>NAM</list-item>
+      <list-item>UN</list-item>
+      <list-item>UNCTAD</list-item>
+      <list-item>UNESCO</list-item>
+      <list-item>UNIDO</list-item>
+      <list-item>UNWTO</list-item>
+      <list-item>UPU</list-item>
+      <list-item>WFTU (NGOs)</list-item>
+      <list-item>WHO</list-item>
+      <list-item>WIPO</list-item>
+      <list-item>WMO</list-item>
+    </list-detail>
+    <detail name="Flag description">three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the broad red band symbolizes revolutionary traditions; the narrow white bands stand for purity, strength, and dignity; the blue bands signify sovereignty, peace, and friendship; the red star represents socialism</detail>
+    <list-detail name="National symbol(s)">
+      <list-item>red star, chollima (winged horse)</list-item>
+      <list-item>national colors: red, white, blue</list-item>
+    </list-detail>
+    <nested-detail name="Country name">
+      <detail name="conventional long form">Democratic People's Republic of Korea</detail>
+      <detail name="conventional short form">North Korea</detail>
+      <detail name="local long form">Choson-minjujuui-inmin-konghwaguk</detail>
+      <detail name="local short form">Choson</detail>
+      <detail name="abbreviation">DPRK</detail>
+      <detail name="etymology">derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the North Korean name "Choson" means "[Land of the] Morning Calm"</detail>
+    </nested-detail>
+    <nested-detail name="Capital">
+      <detail name="name">Pyongyang</detail>
+      <detail name="geographic coordinates">39 01 N, 125 45 E</detail>
+      <detail name="time difference">UTC+8.5 (13.5 hours ahead of Washington, DC, during Standard Time)</detail>
+      <detail name="note">on 15 August 2015, North Korea reverted to UTC+8.5, a time zone that had been observed during pre-colonial times</detail>
+    </nested-detail>
+    <nested-detail name="Constitution">
+      <detail name="history">previous 1948, 1972; latest adopted 1998 (during KIM Jong Il era)</detail>
+      <detail name="amendments">proposed by the Supreme People’s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised 2009, 2012, 2013</detail>
+    </nested-detail>
+    <nested-detail name="Citizenship">
+      <detail name="citizenship by birth">no</detail>
+      <detail name="citizenship by descent only">at least one parent must be a citizen of North Korea</detail>
+      <detail name="dual citizenship recognized">no</detail>
+      <detail name="residency requirement for naturalization">unknown</detail>
+    </nested-detail>
+    <nested-detail name="Executive branch">
+      <detail name="chief of state">Supreme People's Assembly President KIM Yong Nam (since 5 September 1998); note - functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials</detail>
+      <detail name="head of government">State Affairs Commission Chairman KIM Jong Un (since 17 December 2011); note - functions as the commander-in-chief and chief executive</detail>
+      <detail name="cabinet">Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces</detail>
+      <detail name="elections/appointments">chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 9 March 2014 (next election NA)</detail>
+      <detail name="election results">KIM Jong Un reelected unopposed</detail>
+      <detail name="note">the Korean Workers' Party continues to list deceased leaders KIM Il Sung and KIM Jong Il as Eternal President and Eternal General Secretary respectively</detail>
+    </nested-detail>
+    <nested-detail name="Legislative branch">
+      <detail name="description">unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by absolute majority vote to serve 5-year terms); note - the Korean Workers' Party selects all candidates</detail>
+      <detail name="elections">last held on 9 March 2014</detail>
+      <detail name="election results">percent of vote by party - NA; seats by party - KWP 607, KSDF 50, Chondoist Chongu Party 22, Chongryon 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; KWP, KSDP, Chondoist Chongu Party, and Chongryon are part of the DFRF; a token number of seats are reserved for minor parties</detail>
+    </nested-detail>
+    <nested-detail name="Judicial branch">
+      <detail name="highest court(s)">Supreme Court or Central Court (consists of one judge and 2 "People's Assessors" or for some cases, 3 judges)</detail>
+      <detail name="judge selection and term of office">judges elected by the Supreme People's Assembly for 5-year terms</detail>
+      <detail name="subordinate courts">lower provincial courts as determined by the Supreme People's Assembly</detail>
+    </nested-detail>
+    <nested-detail name="National anthem">
+      <detail name="name">"Aegukka" (Patriotic Song)</detail>
+      <detail name="lyrics/music">PAK Se Yong/KIM Won Gyun</detail>
+      <detail name="note">adopted 1947; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics; the North Korean anthem is also known as "Ach'imun pinnara" (Let Morning Shine)</detail>
+    </nested-detail>
+    <detail name="Diplomatic representation in the US">none; North Korea has a Permanent Mission to the UN in New York</detail>
+    <detail name="Diplomatic representation from the US">none; note - Swedish Embassy in Pyongyang represents the US as consular protecting power</detail>
+  </section>
+  <section name="Military and security" id="military">
+    <list-detail name="Military service age and obligation">
+      <list-item>17 years of age for compulsory male and female military service</list-item>
+      <list-item>service obligation 10 years for men, to age 23 for women</list-item>
+    </list-detail>
+    <list-detail name="Military branches">
+      <list-item>North Korean People's Army: Ground Forces, Navy, Air Force</list-item>
+      <list-item>civil security forces</list-item>
+    </list-detail>
+  </section>
+  <section name="People and society" id="people">
+    <detail name="Population">25,248,140</detail>
+    <list-detail name="Ethnic groups">
+      <list-item>racially homogeneous</list-item>
+      <list-item>there is a small Chinese community and a few ethnic Japanese</list-item>
+    </list-detail>
+    <list-detail name="Languages">
+      <list-item>Korean</list-item>
+    </list-detail>
+    <detail name="Religions">traditionally Buddhist and Confucianist, some Christian and syncretic Chondogyo (Religion of the Heavenly Way)</detail>
+    <detail name="Population growth rate">0.53%</detail>
+    <detail name="Birth rate">14.6 births/1,000 population</detail>
+    <detail name="Death rate">9.3 deaths/1,000 population</detail>
+    <detail name="Net migration rate">0 migrant(s)/1,000 population</detail>
+    <detail name="Population distribution">population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east</detail>
+    <detail name="Total fertility rate">1.95 children born/woman</detail>
+    <detail name="Contraceptive prevalence rate">78.2%</detail>
+    <detail name="Physicians density">3.51 physicians/1,000 population</detail>
+    <detail name="Hospital bed density">13.2 beds/1,000 population</detail>
+    <detail name="Total fertility rate">1.95 children born/woman</detail>
+    <list-detail name="Urban areas">
+      <list-item>PYONGYANG (capital) 2.863 million</list-item>
+    </list-detail>
+    <detail name="HIV/AIDS - adult prevalence rate">NA</detail>
+    <detail name="HIV/AIDS - deaths">NA</detail>
+    <detail name="Obesity - adult prevalence rate">6.8%</detail>
+    <detail name="Children under the age of 5 years underweight">15.2%</detail>
+    <detail name="Education expenditures">NA</detail>
+    <detail name="Nationality">Korean(s)</detail>
+    <nested-detail name="Dependency ratios">
+      <detail name="total dependency ratio">44.5</detail>
+      <detail name="youth dependency ratio">30.5</detail>
+      <detail name="elderly dependency ratio">14</detail>
+    </nested-detail>
+    <nested-detail name="Median age">
+      <detail name="total">34 years</detail>
+      <detail name="male">32.5 years</detail>
+      <detail name="female">35.6 years</detail>
+    </nested-detail>
+    <nested-detail name="Urbanization">
+      <detail name="urban population">61.2% of total population</detail>
+      <detail name="rate of urbanization">0.8% annual rate of change (2015-20 est.)</detail>
+    </nested-detail>
+    <nested-detail name="Infant mortality rate">
+      <detail name="total">22.1 deaths/1,000 live births</detail>
+      <detail name="male">24.6 deaths/1,000 live births</detail>
+      <detail name="female">19.5 deaths/1,000 live births</detail>
+    </nested-detail>
+    <nested-detail name="Life expectancy at birth">
+      <detail name="total population">70.7 years</detail>
+      <detail name="male">66.9 years</detail>
+      <detail name="female">74.8 years</detail>
+    </nested-detail>
+    <nested-detail name="Literacy">
+      <detail name="definition">age 15 and over can read and write</detail>
+      <detail name="total population">100%</detail>
+      <detail name="male">100%</detail>
+      <detail name="female">100%</detail>
+    </nested-detail>
+    <nested-detail name="School life expectancy (primary to tertiary education)">
+      <detail name="total">11 years</detail>
+      <detail name="male">11 years</detail>
+      <detail name="female">11 years</detail>
+    </nested-detail>
+    <histogram name="Age structure" unit="%">
+      <entry from-age="0" to-age="14">20.78</entry>
+      <entry from-age="15" to-age="24">15.59</entry>
+      <entry from-age="25" to-age="54">44.28</entry>
+      <entry from-age="55" to-age="64">9.77</entry>
+      <entry from-age="65">9.56</entry>
+    </histogram>
+    <histogram description="male to female" name="Sex ratio">
+      <entry from-age="0" to-age="0">1.05</entry>
+      <entry from-age="0" to-age="14">1.03</entry>
+      <entry from-age="15" to-age="24">1.02</entry>
+      <entry from-age="25" to-age="54">1.01</entry>
+      <entry from-age="55" to-age="64">0.9</entry>
+      <entry from-age="65">0.53</entry>
+      <entry>0.94</entry>
+    </histogram>
+  </section>
+  <section name="Transnational issues" id="issues">
+    <list-detail name="Disputes - international">
+      <list-item>risking arrest, imprisonment, and deportation, tens of thousands of North Koreans cross into China to escape famine, economic privation, and political oppression</list-item>
+      <list-item>North Korea and China dispute the sovereignty of certain islands in Yalu and Tumen Rivers</list-item>
+      <list-item>Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953</list-item>
+      <list-item>periodic incidents in the Yellow Sea with South Korea which claims the Northern Limiting Line as a maritime boundary</list-item>
+      <list-item>North Korea supports South Korea in rejecting Japan's claim to Liancourt Rocks (Tok-do/Take-shima)</list-item>
+    </list-detail>
+    <list-detail name="Illicit drugs">
+      <list-item>at present there is insufficient information to determine the current level of involvement of government officials in the production or trafficking of illicit drugs, but for years, from the 1970s into the 2000s, citizens of the Democratic People's Republic of (North) Korea (DPRK), many of them diplomatic employees of the government, were apprehended abroad while trafficking in narcotics</list-item>
+      <list-item>police investigations in Taiwan and Japan in recent years have linked North Korea to large illicit shipments of heroin and methamphetamine</list-item>
+    </list-detail>
+    <nested-detail name="Refugees and internally displaced persons">
+      <detail name="IDPs">undetermined (periodic flooding and famine during mid-1990s)</detail>
+    </nested-detail>
+  </section>
+  <section name="Transportation" id="transport">
+    <detail name="Civil aircraft registration country code prefix">P</detail>
+    <detail name="Airports">82</detail>
+    <detail name="Heliports">23</detail>
+    <list-detail name="Pipelines">
+      <list-item>oil 6 km</list-item>
+    </list-detail>
+    <detail name="Waterways">2,250 km (most navigable only by small craft)</detail>
+    <nested-detail name="National air transport system">
+      <detail name="number of registered air carriers">1</detail>
+      <detail name="inventory of registered aircraft operated by air carriers">17</detail>
+      <detail name="annual passenger traffic on registered air carriers">223,418</detail>
+      <detail name="annual freight traffic on registered air carriers">1,574,719 mt-km</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with paved runways">
+      <detail name="total">39</detail>
+      <detail name="over 3,047 m">3</detail>
+      <detail name="2,438 to 3,047 m">22</detail>
+      <detail name="1,524 to 2,437 m">8</detail>
+      <detail name="914 to 1,523 m">2</detail>
+      <detail name="under 914 m">4</detail>
+    </nested-detail>
+    <nested-detail name="Airports - with unpaved runways">
+      <detail name="total">43</detail>
+      <detail name="2,438 to 3,047 m">3</detail>
+      <detail name="1,524 to 2,437 m">17</detail>
+      <detail name="914 to 1,523 m">15</detail>
+      <detail name="under 914 m">8</detail>
+    </nested-detail>
+    <nested-detail name="Railways">
+      <detail name="total">7,435 km</detail>
+      <detail name="standard gauge">7,435 km 1.435-m gauge (5,400 km electrified)</detail>
+    </nested-detail>
+    <nested-detail name="Roadways">
+      <detail name="total">25,554 km</detail>
+      <detail name="paved">724 km</detail>
+      <detail name="unpaved">24,830 km</detail>
+    </nested-detail>
+    <nested-detail name="Merchant marine">
+      <detail name="total">248</detail>
+      <detail name="by type">bulk carrier 6, container ship 3, general cargo 184, oil tanker 25, other 30</detail>
+    </nested-detail>
+    <nested-detail name="Ports and terminals">
+      <detail name="major seaport(s)">Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan</detail>
+    </nested-detail>
+  </section>
+</country>
+
+</project>
